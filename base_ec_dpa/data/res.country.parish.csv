@@ -1,0 +1,1041 @@
+id,country_id:id,state_id:id,city_id:id,code,name
+base_ec_020150,base.ec,base_ec_02,base_ec_0201,020150,GUARANDA
+base_ec_020151,base.ec,base_ec_02,base_ec_0201,020151,FACUNDO VELA
+base_ec_020153,base.ec,base_ec_02,base_ec_0201,020153,JULIO E. MORENO (CATANAHUAN GRANDE)
+base_ec_020155,base.ec,base_ec_02,base_ec_0201,020155,SALINAS
+base_ec_020156,base.ec,base_ec_02,base_ec_0201,020156,SAN LORENZO
+base_ec_020157,base.ec,base_ec_02,base_ec_0201,020157,SAN SIMON (YACOTO)
+base_ec_020158,base.ec,base_ec_02,base_ec_0201,020158,SANTA FE (SANTA FE)
+base_ec_020159,base.ec,base_ec_02,base_ec_0201,020159,SIMIATUG
+base_ec_020160,base.ec,base_ec_02,base_ec_0201,020160,SAN LUIS DE PAMBIL
+base_ec_020250,base.ec,base_ec_02,base_ec_0202,020250,CHILLANES
+base_ec_020251,base.ec,base_ec_02,base_ec_0202,020251,SAN JOSE DEL TAMBO (TAMBOPAMBA)
+base_ec_020350,base.ec,base_ec_02,base_ec_0203,020350,SAN JOSE DE CHIMBO
+base_ec_020351,base.ec,base_ec_02,base_ec_0203,020351,ASUNCION (ASANCOTO)
+base_ec_020353,base.ec,base_ec_02,base_ec_0203,020353,MAGDALENA (CHAPACOTO)
+base_ec_020354,base.ec,base_ec_02,base_ec_0203,020354,SAN SEBASTIAN
+base_ec_020355,base.ec,base_ec_02,base_ec_0203,020355,TELIMBELA
+base_ec_020450,base.ec,base_ec_02,base_ec_0204,020450,ECHEANDIA
+base_ec_020550,base.ec,base_ec_02,base_ec_0205,020550,SAN MIGUEL
+base_ec_020551,base.ec,base_ec_02,base_ec_0205,020551,BALSAPAMBA
+base_ec_020552,base.ec,base_ec_02,base_ec_0205,020552,BILOVAN
+base_ec_020553,base.ec,base_ec_02,base_ec_0205,020553,REGULO DE MORA
+base_ec_020554,base.ec,base_ec_02,base_ec_0205,020554,SAN PABLO (SAN PABLO DE ATENAS)
+base_ec_020555,base.ec,base_ec_02,base_ec_0205,020555,SANTIAGO
+base_ec_020556,base.ec,base_ec_02,base_ec_0205,020556,SAN VICENTE
+base_ec_020650,base.ec,base_ec_02,base_ec_0206,020650,CALUMA
+base_ec_020750,base.ec,base_ec_02,base_ec_0207,020750,LAS NAVES
+base_ec_040150,base.ec,base_ec_04,base_ec_0401,040150,TULCAN
+base_ec_040151,base.ec,base_ec_04,base_ec_0401,040151,EL CARMELO (EL PUN)
+base_ec_040153,base.ec,base_ec_04,base_ec_0401,040153,JULIO ANDRADE (OREJUELA)
+base_ec_040154,base.ec,base_ec_04,base_ec_0401,040154,MALDONADO
+base_ec_040155,base.ec,base_ec_04,base_ec_0401,040155,PIOTER
+base_ec_040156,base.ec,base_ec_04,base_ec_0401,040156,TOBAR DONOSO (LA BOCANA DE CAMUMBI)
+base_ec_040157,base.ec,base_ec_04,base_ec_0401,040157,TUFIÑO
+base_ec_040158,base.ec,base_ec_04,base_ec_0401,040158,URBINA (TAYA)
+base_ec_040159,base.ec,base_ec_04,base_ec_0401,040159,EL CHICAL
+base_ec_040161,base.ec,base_ec_04,base_ec_0401,040161,SANTA MARTHA DE CUBA
+base_ec_040250,base.ec,base_ec_04,base_ec_0402,040250,BOLIVAR
+base_ec_040251,base.ec,base_ec_04,base_ec_0402,040251,GARCIA MORENO
+base_ec_040252,base.ec,base_ec_04,base_ec_0402,040252,LOS ANDES
+base_ec_040253,base.ec,base_ec_04,base_ec_0402,040253,MONTE OLIVO
+base_ec_040254,base.ec,base_ec_04,base_ec_0402,040254,SAN VICENTE DE PUSIR
+base_ec_040255,base.ec,base_ec_04,base_ec_0402,040255,SAN RAFAEL
+base_ec_040350,base.ec,base_ec_04,base_ec_0403,040350,EL ANGEL
+base_ec_040351,base.ec,base_ec_04,base_ec_0403,040351,EL GOALTAL
+base_ec_040352,base.ec,base_ec_04,base_ec_0403,040352,LA LIBERTAD (ALIZO)
+base_ec_040353,base.ec,base_ec_04,base_ec_0403,040353,SAN ISIDRO
+base_ec_040450,base.ec,base_ec_04,base_ec_0404,040450,MIRA (CHONTAHUASI)
+base_ec_040451,base.ec,base_ec_04,base_ec_0404,040451,CONCEPCION
+base_ec_040452,base.ec,base_ec_04,base_ec_0404,040452,JIJON Y CAAMAÑO (CAB. EN RIO BLANCO)
+base_ec_040453,base.ec,base_ec_04,base_ec_0404,040453,JUAN MONTALVO (SAN IGNACIO DE QUIL)
+base_ec_040550,base.ec,base_ec_04,base_ec_0405,040550,SAN GABRIEL
+base_ec_040551,base.ec,base_ec_04,base_ec_0405,040551,CRISTOBAL COLON
+base_ec_040552,base.ec,base_ec_04,base_ec_0405,040552,CHITAN DE NAVARRETE
+base_ec_040553,base.ec,base_ec_04,base_ec_0405,040553,FERNANDEZ SALVADOR
+base_ec_040554,base.ec,base_ec_04,base_ec_0405,040554,LA PAZ
+base_ec_040555,base.ec,base_ec_04,base_ec_0405,040555,PIARTAL
+base_ec_040650,base.ec,base_ec_04,base_ec_0406,040650,HUACA
+base_ec_040651,base.ec,base_ec_04,base_ec_0406,040651,MARISCAL SUCRE
+base_ec_050150,base.ec,base_ec_05,base_ec_0501,050150,LATACUNGA
+base_ec_050151,base.ec,base_ec_05,base_ec_0501,050151,ALAQUES (ALAQUEZ)
+base_ec_050152,base.ec,base_ec_05,base_ec_0501,050152,BELISARIO QUEVEDO (GUANAILIN)
+base_ec_050153,base.ec,base_ec_05,base_ec_0501,050153,GUAITACAMA (GUAYTACAMA)
+base_ec_050154,base.ec,base_ec_05,base_ec_0501,050154,JOSEGUANGO BAJO
+base_ec_050156,base.ec,base_ec_05,base_ec_0501,050156,MULALO
+base_ec_050157,base.ec,base_ec_05,base_ec_0501,050157,11 DE NOVIEMBRE (ILINCHISI)
+base_ec_050158,base.ec,base_ec_05,base_ec_0501,050158,POALO
+base_ec_050159,base.ec,base_ec_05,base_ec_0501,050159,SAN JUAN DE PASTOCALLE
+base_ec_050161,base.ec,base_ec_05,base_ec_0501,050161,TANICUCHI
+base_ec_050162,base.ec,base_ec_05,base_ec_0501,050162,TOACASO
+base_ec_050250,base.ec,base_ec_05,base_ec_0502,050250,LA MANA
+base_ec_050251,base.ec,base_ec_05,base_ec_0502,050251,GUASAGANDA (CAB. EN GUASAGANDA CENTRO)
+base_ec_050252,base.ec,base_ec_05,base_ec_0502,050252,PUCAYACU
+base_ec_050350,base.ec,base_ec_05,base_ec_0503,050350,EL CORAZON
+base_ec_050351,base.ec,base_ec_05,base_ec_0503,050351,MORASPUNGO
+base_ec_050352,base.ec,base_ec_05,base_ec_0503,050352,PINLLOPATA
+base_ec_050353,base.ec,base_ec_05,base_ec_0503,050353,RAMON CAMPAÑA
+base_ec_050450,base.ec,base_ec_05,base_ec_0504,050450,PUJILI
+base_ec_050451,base.ec,base_ec_05,base_ec_0504,050451,ANGAMARCA
+base_ec_050453,base.ec,base_ec_05,base_ec_0504,050453,GUANGAJE
+base_ec_050455,base.ec,base_ec_05,base_ec_0504,050455,LA VICTORIA
+base_ec_050456,base.ec,base_ec_05,base_ec_0504,050456,PILALO
+base_ec_050457,base.ec,base_ec_05,base_ec_0504,050457,TINGO
+base_ec_050458,base.ec,base_ec_05,base_ec_0504,050458,ZUMBAHUA
+base_ec_050550,base.ec,base_ec_05,base_ec_0505,050550,SAN MIGUEL
+base_ec_050551,base.ec,base_ec_05,base_ec_0505,050551,ANTONIO JOSE HOLGUIN (SANTA LUCIA)
+base_ec_050552,base.ec,base_ec_05,base_ec_0505,050552,CUSUBAMBA
+base_ec_050553,base.ec,base_ec_05,base_ec_0505,050553,MULALILLO
+base_ec_050554,base.ec,base_ec_05,base_ec_0505,050554,MULLIQUINDIL (SANTA ANA)
+base_ec_050555,base.ec,base_ec_05,base_ec_0505,050555,PANSALEO
+base_ec_050650,base.ec,base_ec_05,base_ec_0506,050650,SAQUISILI
+base_ec_050651,base.ec,base_ec_05,base_ec_0506,050651,CANCHAGUA
+base_ec_050652,base.ec,base_ec_05,base_ec_0506,050652,CHANTILIN
+base_ec_050653,base.ec,base_ec_05,base_ec_0506,050653,COCHAPAMBA
+base_ec_050750,base.ec,base_ec_05,base_ec_0507,050750,SIGCHOS
+base_ec_050751,base.ec,base_ec_05,base_ec_0507,050751,CHUGCHILLAN
+base_ec_050752,base.ec,base_ec_05,base_ec_0507,050752,ISINLIVI
+base_ec_050753,base.ec,base_ec_05,base_ec_0507,050753,LAS PAMPAS
+base_ec_050754,base.ec,base_ec_05,base_ec_0507,050754,PALO QUEMADO
+base_ec_060150,base.ec,base_ec_06,base_ec_0601,060150,RIOBAMBA
+base_ec_060151,base.ec,base_ec_06,base_ec_0601,060151,CACHA (CAB. EN MACHANGARA)
+base_ec_060152,base.ec,base_ec_06,base_ec_0601,060152,CALPI
+base_ec_060153,base.ec,base_ec_06,base_ec_0601,060153,CUBIJIES
+base_ec_060154,base.ec,base_ec_06,base_ec_0601,060154,FLORES
+base_ec_060156,base.ec,base_ec_06,base_ec_0601,060156,LICTO
+base_ec_060157,base.ec,base_ec_06,base_ec_0601,060157,PUNGALA
+base_ec_060158,base.ec,base_ec_06,base_ec_0601,060158,PUNIN
+base_ec_060159,base.ec,base_ec_06,base_ec_0601,060159,QUIMIAG
+base_ec_060160,base.ec,base_ec_06,base_ec_0601,060160,SAN JUAN
+base_ec_060161,base.ec,base_ec_06,base_ec_0601,060161,SAN LUIS
+base_ec_060250,base.ec,base_ec_06,base_ec_0602,060250,ALAUSI
+base_ec_060251,base.ec,base_ec_06,base_ec_0602,060251,ACHUPALLAS
+base_ec_060253,base.ec,base_ec_06,base_ec_0602,060253,GUASUNTOS
+base_ec_060254,base.ec,base_ec_06,base_ec_0602,060254,HUIGRA
+base_ec_060255,base.ec,base_ec_06,base_ec_0602,060255,MULTITUD
+base_ec_060256,base.ec,base_ec_06,base_ec_0602,060256,PISTISHI (NARIZ DEL DIABLO)
+base_ec_060257,base.ec,base_ec_06,base_ec_0602,060257,PUMALLACTA
+base_ec_060258,base.ec,base_ec_06,base_ec_0602,060258,SEVILLA
+base_ec_060259,base.ec,base_ec_06,base_ec_0602,060259,SIBAMBE
+base_ec_060260,base.ec,base_ec_06,base_ec_0602,060260,TIXAN
+base_ec_060350,base.ec,base_ec_06,base_ec_0603,060350,VILLA LA UNION (CAJABAMBA)
+base_ec_060351,base.ec,base_ec_06,base_ec_0603,060351,CAÑI
+base_ec_060352,base.ec,base_ec_06,base_ec_0603,060352,COLUMBE
+base_ec_060353,base.ec,base_ec_06,base_ec_0603,060353,JUAN DE VELASCO (PANGOR)
+base_ec_060354,base.ec,base_ec_06,base_ec_0603,060354,SANTIAGO DE QUITO (CAB. EN SAN ANTONIO DE QUITO)
+base_ec_060450,base.ec,base_ec_06,base_ec_0604,060450,CHAMBO
+base_ec_060550,base.ec,base_ec_06,base_ec_0605,060550,CHUNCHI
+base_ec_060551,base.ec,base_ec_06,base_ec_0605,060551,CAPZOL
+base_ec_060552,base.ec,base_ec_06,base_ec_0605,060552,COMPUD
+base_ec_060553,base.ec,base_ec_06,base_ec_0605,060553,GONZOL
+base_ec_060554,base.ec,base_ec_06,base_ec_0605,060554,LLAGOS
+base_ec_060650,base.ec,base_ec_06,base_ec_0606,060650,GUAMOTE
+base_ec_060651,base.ec,base_ec_06,base_ec_0606,060651,CEBADAS
+base_ec_060652,base.ec,base_ec_06,base_ec_0606,060652,PALMIRA
+base_ec_060751,base.ec,base_ec_06,base_ec_0607,060751,GUANANDO
+base_ec_060752,base.ec,base_ec_06,base_ec_0607,060752,ILAPO
+base_ec_060753,base.ec,base_ec_06,base_ec_0607,060753,LA PROVIDENCIA
+base_ec_060754,base.ec,base_ec_06,base_ec_0607,060754,SAN ANDRES
+base_ec_060755,base.ec,base_ec_06,base_ec_0607,060755,SAN GERARDO DE PACAICAGUAN
+base_ec_060756,base.ec,base_ec_06,base_ec_0607,060756,SAN ISIDRO DE PATULU
+base_ec_060757,base.ec,base_ec_06,base_ec_0607,060757,SAN JOSE DEL CHAZO
+base_ec_060758,base.ec,base_ec_06,base_ec_0607,060758,SANTA FE DE GALAN
+base_ec_060759,base.ec,base_ec_06,base_ec_0607,060759,VALPARAISO
+base_ec_060850,base.ec,base_ec_06,base_ec_0608,060850,PALLATANGA
+base_ec_060950,base.ec,base_ec_06,base_ec_0609,060950,PENIPE
+base_ec_060951,base.ec,base_ec_06,base_ec_0609,060951,EL ALTAR
+base_ec_060952,base.ec,base_ec_06,base_ec_0609,060952,MATUS
+base_ec_060953,base.ec,base_ec_06,base_ec_0609,060953,PUELA
+base_ec_060954,base.ec,base_ec_06,base_ec_0609,060954,SAN ANTONIO DE BAYUSHIG
+base_ec_060955,base.ec,base_ec_06,base_ec_0609,060955,LA CANDELARIA
+base_ec_060956,base.ec,base_ec_06,base_ec_0609,060956,BILBAO (CAB. EN QUILLUYACU)
+base_ec_061050,base.ec,base_ec_06,base_ec_0610,061050,CUMANDA
+base_ec_080150,base.ec,base_ec_08,base_ec_0801,080150,ESMERALDAS
+base_ec_080152,base.ec,base_ec_08,base_ec_0801,080152,CAMARONES (CAB. EN SAN VICENTE)
+base_ec_080153,base.ec,base_ec_08,base_ec_0801,080153,CRNEL. CARLOS CONCHA TORRES (CAB. EN HUELE)
+base_ec_080154,base.ec,base_ec_08,base_ec_0801,080154,CHINCA
+base_ec_080159,base.ec,base_ec_08,base_ec_0801,080159,MAJUA
+base_ec_080163,base.ec,base_ec_08,base_ec_0801,080163,SAN MATEO
+base_ec_080165,base.ec,base_ec_08,base_ec_0801,080165,TABIAZO
+base_ec_080166,base.ec,base_ec_08,base_ec_0801,080166,TACHINA
+base_ec_080168,base.ec,base_ec_08,base_ec_0801,080168,VUELTA LARGA
+base_ec_080250,base.ec,base_ec_08,base_ec_0802,080250,VALDEZ (LIMONES)
+base_ec_080251,base.ec,base_ec_08,base_ec_0802,080251,ANCHAYACU
+base_ec_080252,base.ec,base_ec_08,base_ec_0802,080252,ATAHUALPA (CAB. EN CAMARONES)
+base_ec_080253,base.ec,base_ec_08,base_ec_0802,080253,BORBON
+base_ec_080254,base.ec,base_ec_08,base_ec_0802,080254,LA TOLA
+base_ec_080255,base.ec,base_ec_08,base_ec_0802,080255,LUIS VARGAS TORRES (CAB. EN PLAYA DE ORO)
+base_ec_080256,base.ec,base_ec_08,base_ec_0802,080256,MALDONADO
+base_ec_080257,base.ec,base_ec_08,base_ec_0802,080257,PAMPANAL DE BOLIVAR
+base_ec_080258,base.ec,base_ec_08,base_ec_0802,080258,SAN FRANCISCO DE ONZOLE
+base_ec_080259,base.ec,base_ec_08,base_ec_0802,080259,SANTO DOMINGO DE ONZOLE
+base_ec_080260,base.ec,base_ec_08,base_ec_0802,080260,SELVA ALEGRE
+base_ec_080261,base.ec,base_ec_08,base_ec_0802,080261,TELEMBI
+base_ec_080262,base.ec,base_ec_08,base_ec_0802,080262,COLON ELOY DEL MARIA
+base_ec_080263,base.ec,base_ec_08,base_ec_0802,080263,SAN JOSE DE CAYAPAS
+base_ec_080264,base.ec,base_ec_08,base_ec_0802,080264,TIMBIRE
+base_ec_080350,base.ec,base_ec_08,base_ec_0803,080350,MUISNE
+base_ec_080351,base.ec,base_ec_08,base_ec_0803,080351,BOLIVAR
+base_ec_080352,base.ec,base_ec_08,base_ec_0803,080352,DAULE
+base_ec_080353,base.ec,base_ec_08,base_ec_0803,080353,GALERA
+base_ec_080354,base.ec,base_ec_08,base_ec_0803,080354,QUINGUE (OLMEDO PERDOMO FRANCO)
+base_ec_080355,base.ec,base_ec_08,base_ec_0803,080355,SALIMA
+base_ec_080356,base.ec,base_ec_08,base_ec_0803,080356,SAN FRANCISCO
+base_ec_080357,base.ec,base_ec_08,base_ec_0803,080357,SAN GREGORIO
+base_ec_080358,base.ec,base_ec_08,base_ec_0803,080358,SAN JOSE DE CHAMANGA
+base_ec_080450,base.ec,base_ec_08,base_ec_0804,080450,ROSA ZARATE (QUININDE)
+base_ec_080451,base.ec,base_ec_08,base_ec_0804,080451,CUBE
+base_ec_080452,base.ec,base_ec_08,base_ec_0804,080452,CHURA (CHANCAMA) (CAB. EN EL YERBERO)
+base_ec_080453,base.ec,base_ec_08,base_ec_0804,080453,MALIMPIA
+base_ec_080454,base.ec,base_ec_08,base_ec_0804,080454,VICHE
+base_ec_080550,base.ec,base_ec_08,base_ec_0805,080550,SAN LORENZO
+base_ec_080551,base.ec,base_ec_08,base_ec_0805,080551,ALTO TAMBO (CAB EN GUADUAL)
+base_ec_080552,base.ec,base_ec_08,base_ec_0805,080552,ANCON (PICHANGAL) (CAB. EN PALMA REAL)
+base_ec_080553,base.ec,base_ec_08,base_ec_0805,080553,CALDERON
+base_ec_080554,base.ec,base_ec_08,base_ec_0805,080554,CARONDELET
+base_ec_080555,base.ec,base_ec_08,base_ec_0805,080555,5 DE JUNIO (CAB. EN UIMBI)
+base_ec_080556,base.ec,base_ec_08,base_ec_0805,080556,CONCEPCION
+base_ec_080557,base.ec,base_ec_08,base_ec_0805,080557,MATAJE (CAB. EN SANTANDER)
+base_ec_080558,base.ec,base_ec_08,base_ec_0805,080558,SAN JAVIER DE CACHAVI (CAB. EN SAN JAVIER)
+base_ec_080559,base.ec,base_ec_08,base_ec_0805,080559,SANTA RITA
+base_ec_080560,base.ec,base_ec_08,base_ec_0805,080560,TAMBILLO
+base_ec_080561,base.ec,base_ec_08,base_ec_0805,080561,TULULBI (CAB. EN RICAURTE)
+base_ec_080562,base.ec,base_ec_08,base_ec_0805,080562,URBINA
+base_ec_080650,base.ec,base_ec_08,base_ec_0806,080650,ATACAMES
+base_ec_080651,base.ec,base_ec_08,base_ec_0806,080651,LA UNION
+base_ec_080653,base.ec,base_ec_08,base_ec_0806,080653,TONCHIGUE
+base_ec_080750,base.ec,base_ec_08,base_ec_0807,080750,RIOVERDE
+base_ec_080751,base.ec,base_ec_08,base_ec_0807,080751,CHONTADURO
+base_ec_080752,base.ec,base_ec_08,base_ec_0807,080752,CHUMUNDE
+base_ec_080753,base.ec,base_ec_08,base_ec_0807,080753,LAGARTO
+base_ec_080754,base.ec,base_ec_08,base_ec_0807,080754,MONTALVO (CAB EN HORQUETA)
+base_ec_080755,base.ec,base_ec_08,base_ec_0807,080755,ROCAFUERTE
+base_ec_100150,base.ec,base_ec_10,base_ec_1001,100150,SAN MIGUEL DE IBARRA
+base_ec_100151,base.ec,base_ec_10,base_ec_1001,100151,AMBUQUI
+base_ec_100152,base.ec,base_ec_10,base_ec_1001,100152,ANGOCHAGUA
+base_ec_100153,base.ec,base_ec_10,base_ec_1001,100153,CAROLINA
+base_ec_100154,base.ec,base_ec_10,base_ec_1001,100154,LA ESPERANZA
+base_ec_100155,base.ec,base_ec_10,base_ec_1001,100155,LITA
+base_ec_100156,base.ec,base_ec_10,base_ec_1001,100156,SALINAS
+base_ec_100157,base.ec,base_ec_10,base_ec_1001,100157,SAN ANTONIO
+base_ec_100250,base.ec,base_ec_10,base_ec_1002,100250,ATUNTAQUI
+base_ec_100251,base.ec,base_ec_10,base_ec_1002,100251,IMBAYA (SAN LUIS DE COBUENDO)
+base_ec_100253,base.ec,base_ec_10,base_ec_1002,100253,SAN JOSE DE CHALTURA
+base_ec_100254,base.ec,base_ec_10,base_ec_1002,100254,SAN ROQUE
+base_ec_100350,base.ec,base_ec_10,base_ec_1003,100350,COTACACHI
+base_ec_100351,base.ec,base_ec_10,base_ec_1003,100351,APUELA
+base_ec_100352,base.ec,base_ec_10,base_ec_1003,100352,GARCIA MORENO (LLURIMAGUA)
+base_ec_100353,base.ec,base_ec_10,base_ec_1003,100353,IMANTAG
+base_ec_100354,base.ec,base_ec_10,base_ec_1003,100354,PEÑAHERRERA
+base_ec_100355,base.ec,base_ec_10,base_ec_1003,100355,PLAZA GUTIERREZ (CALVARIO)
+base_ec_100356,base.ec,base_ec_10,base_ec_1003,100356,QUIROGA
+base_ec_100357,base.ec,base_ec_10,base_ec_1003,100357,6 DE JULIO DE CUELLAJE (CAB. EN CUELLAJE)
+base_ec_100358,base.ec,base_ec_10,base_ec_1003,100358,VACAS GALINDO (EL CHURO) (CAB. EN SAN MIGUEL ALTO)
+base_ec_100450,base.ec,base_ec_10,base_ec_1004,100450,OTAVALO
+base_ec_100451,base.ec,base_ec_10,base_ec_1004,100451,DOCTOR MIGUEL EGAS CABEZAS (PEGUCHE)
+base_ec_100452,base.ec,base_ec_10,base_ec_1004,100452,EUGENIO ESPEJO (CALPAQUI)
+base_ec_100453,base.ec,base_ec_10,base_ec_1004,100453,GONZALEZ SUAREZ
+base_ec_100454,base.ec,base_ec_10,base_ec_1004,100454,PATAQUI
+base_ec_100455,base.ec,base_ec_10,base_ec_1004,100455,SAN JOSE DE QUICHINCHE
+base_ec_100456,base.ec,base_ec_10,base_ec_1004,100456,SAN JUAN DE ILUMAN
+base_ec_100457,base.ec,base_ec_10,base_ec_1004,100457,SAN PABLO
+base_ec_100458,base.ec,base_ec_10,base_ec_1004,100458,SAN RAFAEL
+base_ec_100459,base.ec,base_ec_10,base_ec_1004,100459,SELVA ALEGRE (CAB. EN SAN MIGUEL DE PAMPLONA)
+base_ec_100550,base.ec,base_ec_10,base_ec_1005,100550,PIMAMPIRO
+base_ec_100551,base.ec,base_ec_10,base_ec_1005,100551,CHUGA
+base_ec_100552,base.ec,base_ec_10,base_ec_1005,100552,MARIANO ACOSTA
+base_ec_100553,base.ec,base_ec_10,base_ec_1005,100553,SAN  FCO. DE SIGSIPAMBA
+base_ec_100650,base.ec,base_ec_10,base_ec_1006,100650,URCUQUI
+base_ec_100651,base.ec,base_ec_10,base_ec_1006,100651,CAHUASQUI
+base_ec_100653,base.ec,base_ec_10,base_ec_1006,100653,PABLO ARENAS
+base_ec_100654,base.ec,base_ec_10,base_ec_1006,100654,SAN BLAS
+base_ec_100655,base.ec,base_ec_10,base_ec_1006,100655,TUMBABIRO
+base_ec_150158,base.ec,base_ec_15,base_ec_1501,150158,SAN JUAN DE MUYUNA
+base_ec_150151,base.ec,base_ec_15,base_ec_1501,150151,AHUANO
+base_ec_150153,base.ec,base_ec_15,base_ec_1501,150153,CHONTAPUNTA
+base_ec_150154,base.ec,base_ec_15,base_ec_1501,150154,PANO
+base_ec_150155,base.ec,base_ec_15,base_ec_1501,150155,PUERTO MISAHUALLI
+base_ec_150156,base.ec,base_ec_15,base_ec_1501,150156,PUERTO NAPO
+base_ec_150157,base.ec,base_ec_15,base_ec_1501,150157,TALAG
+base_ec_150350,base.ec,base_ec_15,base_ec_1503,150350,ARCHIDONA
+base_ec_150352,base.ec,base_ec_15,base_ec_1503,150352,COTUNDO
+base_ec_150354,base.ec,base_ec_15,base_ec_1503,150354,SAN PABLO DE USHPAYACU
+base_ec_150450,base.ec,base_ec_15,base_ec_1504,150450,EL CHACO
+base_ec_150451,base.ec,base_ec_15,base_ec_1504,150451,GONZALO DIAZ DE PINEDA (EL BOMBON)
+base_ec_150452,base.ec,base_ec_15,base_ec_1504,150452,LINARES
+base_ec_150453,base.ec,base_ec_15,base_ec_1504,150453,OYACACHI
+base_ec_150454,base.ec,base_ec_15,base_ec_1504,150454,SANTA ROSA
+base_ec_150455,base.ec,base_ec_15,base_ec_1504,150455,SARDINAS
+base_ec_150750,base.ec,base_ec_15,base_ec_1507,150750,BAEZA
+base_ec_150751,base.ec,base_ec_15,base_ec_1507,150751,COSANGA
+base_ec_150752,base.ec,base_ec_15,base_ec_1507,150752,CUYUJA
+base_ec_150753,base.ec,base_ec_15,base_ec_1507,150753,PAPALLACTA
+base_ec_150754,base.ec,base_ec_15,base_ec_1507,150754,SAN FRANCISCO DE BORJA (VIRGILIO DAVILA)
+base_ec_150756,base.ec,base_ec_15,base_ec_1507,150756,SUMACO
+base_ec_150950,base.ec,base_ec_15,base_ec_1509,150950,CARLOS JULIO AROSEMENA TOLA
+base_ec_160150,base.ec,base_ec_16,base_ec_1601,160150,PUYO
+base_ec_160152,base.ec,base_ec_16,base_ec_1601,160152,CANELOS
+base_ec_160154,base.ec,base_ec_16,base_ec_1601,160154,DIEZ DE AGOSTO
+base_ec_160155,base.ec,base_ec_16,base_ec_1601,160155,FATIMA
+base_ec_160156,base.ec,base_ec_16,base_ec_1601,160156,MONTALVO (ANDOAS)
+base_ec_160157,base.ec,base_ec_16,base_ec_1601,160157,POMONA
+base_ec_160158,base.ec,base_ec_16,base_ec_1601,160158,RIO CORRIENTES
+base_ec_160159,base.ec,base_ec_16,base_ec_1601,160159,RIO TIGRE
+base_ec_160161,base.ec,base_ec_16,base_ec_1601,160161,SARAYACU
+base_ec_160162,base.ec,base_ec_16,base_ec_1601,160162,SIMON BOLIVAR (CAB. EN MUSHULLACTA)
+base_ec_160163,base.ec,base_ec_16,base_ec_1601,160163,TARQUI
+base_ec_160164,base.ec,base_ec_16,base_ec_1601,160164,TENIENTE HUGO ORTIZ
+base_ec_160165,base.ec,base_ec_16,base_ec_1601,160165,VERACRUZ (INDILLAMA) (CAB. EN INDILLAMA)
+base_ec_160166,base.ec,base_ec_16,base_ec_1601,160166,EL TRIUNFO
+base_ec_160250,base.ec,base_ec_16,base_ec_1602,160250,MERA
+base_ec_160251,base.ec,base_ec_16,base_ec_1602,160251,MADRE TIERRA
+base_ec_160252,base.ec,base_ec_16,base_ec_1602,160252,SHELL
+base_ec_160350,base.ec,base_ec_16,base_ec_1603,160350,SANTA CLARA
+base_ec_160351,base.ec,base_ec_16,base_ec_1603,160351,SAN JOSE
+base_ec_160450,base.ec,base_ec_16,base_ec_1604,160450,ARAJUNO
+base_ec_160451,base.ec,base_ec_16,base_ec_1604,160451,CURARAY
+base_ec_170151,base.ec,base_ec_17,base_ec_1701,170151,ALANGASI
+base_ec_170152,base.ec,base_ec_17,base_ec_1701,170152,AMAGUAÑA
+base_ec_170153,base.ec,base_ec_17,base_ec_1701,170153,ATAHUALPA (HABASPAMBA)
+base_ec_170154,base.ec,base_ec_17,base_ec_1701,170154,CALACALI
+base_ec_170155,base.ec,base_ec_17,base_ec_1701,170155,CALDERON (CARAPUNGO)
+base_ec_170156,base.ec,base_ec_17,base_ec_1701,170156,CONOCOTO
+base_ec_170157,base.ec,base_ec_17,base_ec_1701,170157,CUMBAYA
+base_ec_170158,base.ec,base_ec_17,base_ec_1701,170158,CHAVEZPAMBA
+base_ec_170159,base.ec,base_ec_17,base_ec_1701,170159,CHECA (CHILPA)
+base_ec_170160,base.ec,base_ec_17,base_ec_1701,170160,EL QUINCHE
+base_ec_170161,base.ec,base_ec_17,base_ec_1701,170161,GUALEA
+base_ec_170162,base.ec,base_ec_17,base_ec_1701,170162,GUANGOPOLO
+base_ec_170163,base.ec,base_ec_17,base_ec_1701,170163,GUAYLLABAMBA
+base_ec_170164,base.ec,base_ec_17,base_ec_1701,170164,LA MERCED
+base_ec_170165,base.ec,base_ec_17,base_ec_1701,170165,LLANO CHICO
+base_ec_170166,base.ec,base_ec_17,base_ec_1701,170166,LLOA
+base_ec_170168,base.ec,base_ec_17,base_ec_1701,170168,NANEGAL
+base_ec_170169,base.ec,base_ec_17,base_ec_1701,170169,NANEGALITO
+base_ec_170170,base.ec,base_ec_17,base_ec_1701,170170,NAYON
+base_ec_170171,base.ec,base_ec_17,base_ec_1701,170171,NONO
+base_ec_170172,base.ec,base_ec_17,base_ec_1701,170172,PACTO
+base_ec_170174,base.ec,base_ec_17,base_ec_1701,170174,PERUCHO
+base_ec_170175,base.ec,base_ec_17,base_ec_1701,170175,PIFO
+base_ec_170176,base.ec,base_ec_17,base_ec_1701,170176,PINTAG
+base_ec_170177,base.ec,base_ec_17,base_ec_1701,170177,POMASQUI
+base_ec_170178,base.ec,base_ec_17,base_ec_1701,170178,PUELLARO
+base_ec_170179,base.ec,base_ec_17,base_ec_1701,170179,PUEMBO
+base_ec_170180,base.ec,base_ec_17,base_ec_1701,170180,SAN ANTONIO
+base_ec_170181,base.ec,base_ec_17,base_ec_1701,170181,SAN JOSE DE MINAS
+base_ec_170183,base.ec,base_ec_17,base_ec_1701,170183,TABABELA
+base_ec_170184,base.ec,base_ec_17,base_ec_1701,170184,TUMBACO
+base_ec_170185,base.ec,base_ec_17,base_ec_1701,170185,YARUQUI
+base_ec_170186,base.ec,base_ec_17,base_ec_1701,170186,ZAMBIZA
+base_ec_170250,base.ec,base_ec_17,base_ec_1702,170250,CAYAMBE
+base_ec_170251,base.ec,base_ec_17,base_ec_1702,170251,ASCAZUBI
+base_ec_170252,base.ec,base_ec_17,base_ec_1702,170252,CANGAHUA
+base_ec_170253,base.ec,base_ec_17,base_ec_1702,170253,OLMEDO (PESILLO)
+base_ec_170254,base.ec,base_ec_17,base_ec_1702,170254,OTON
+base_ec_170255,base.ec,base_ec_17,base_ec_1702,170255,SANTA ROSA DE CUZUBAMBA
+base_ec_170350,base.ec,base_ec_17,base_ec_1703,170350,MACHACHI
+base_ec_170351,base.ec,base_ec_17,base_ec_1703,170351,ALOAG
+base_ec_170352,base.ec,base_ec_17,base_ec_1703,170352,ALOASI
+base_ec_170354,base.ec,base_ec_17,base_ec_1703,170354,EL CHAUPI
+base_ec_170355,base.ec,base_ec_17,base_ec_1703,170355,MANUEL CORNEJO ASTORGA (TANDAPI)
+base_ec_170356,base.ec,base_ec_17,base_ec_1703,170356,TAMBILLO
+base_ec_170450,base.ec,base_ec_17,base_ec_1704,170450,TABACUNDO
+base_ec_170451,base.ec,base_ec_17,base_ec_1704,170451,LA ESPERANZA
+base_ec_170452,base.ec,base_ec_17,base_ec_1704,170452,MALCHINGUI
+base_ec_170453,base.ec,base_ec_17,base_ec_1704,170453,TOCACHI
+base_ec_170454,base.ec,base_ec_17,base_ec_1704,170454,TUPIGACHI
+base_ec_170551,base.ec,base_ec_17,base_ec_1705,170551,COTOGCHOA
+base_ec_170552,base.ec,base_ec_17,base_ec_1705,170552,RUMIPAMBA
+base_ec_170750,base.ec,base_ec_17,base_ec_1707,170750,SAN MIGUEL DE LOS BANCOS
+base_ec_170751,base.ec,base_ec_17,base_ec_1707,170751,MINDO
+base_ec_170850,base.ec,base_ec_17,base_ec_1708,170850,PEDRO VICENTE MALDONADO
+base_ec_170950,base.ec,base_ec_17,base_ec_1709,170950,PUERTO QUITO
+base_ec_180151,base.ec,base_ec_18,base_ec_1801,180151,AMBATILLO
+base_ec_180152,base.ec,base_ec_18,base_ec_1801,180152,ATAHUALPA (CHISALATA)
+base_ec_180154,base.ec,base_ec_18,base_ec_1801,180154,CONSTANTINO FERNANDEZ (CAB. EN CULLITAHUA)
+base_ec_180155,base.ec,base_ec_18,base_ec_1801,180155,HUACHI GRANDE
+base_ec_180156,base.ec,base_ec_18,base_ec_1801,180156,IZAMBA
+base_ec_180157,base.ec,base_ec_18,base_ec_1801,180157,JUAN BENIGNO VELA
+base_ec_180158,base.ec,base_ec_18,base_ec_1801,180158,MONTALVO
+base_ec_180159,base.ec,base_ec_18,base_ec_1801,180159,PASA
+base_ec_180161,base.ec,base_ec_18,base_ec_1801,180161,PILAGUIN (PILAHUIN)
+base_ec_180162,base.ec,base_ec_18,base_ec_1801,180162,QUISAPINCHA (QUIZAPINCHA)
+base_ec_180163,base.ec,base_ec_18,base_ec_1801,180163,SAN BARTOLOME DE PINLLOG
+base_ec_180164,base.ec,base_ec_18,base_ec_1801,180164,SAN FERNANDO (PASA SAN FERNANDO)
+base_ec_180165,base.ec,base_ec_18,base_ec_1801,180165,SANTA ROSA
+base_ec_180166,base.ec,base_ec_18,base_ec_1801,180166,TOTORAS
+base_ec_180167,base.ec,base_ec_18,base_ec_1801,180167,CUNCHIBAMBA
+base_ec_180168,base.ec,base_ec_18,base_ec_1801,180168,UNAMUNCHO
+base_ec_180250,base.ec,base_ec_18,base_ec_1802,180250,BAÑOS DE AGUA SANTA
+base_ec_180251,base.ec,base_ec_18,base_ec_1802,180251,LLIGUA
+base_ec_180252,base.ec,base_ec_18,base_ec_1802,180252,RIO NEGRO
+base_ec_180253,base.ec,base_ec_18,base_ec_1802,180253,RIO VERDE
+base_ec_180254,base.ec,base_ec_18,base_ec_1802,180254,ULBA
+base_ec_180350,base.ec,base_ec_18,base_ec_1803,180350,CEVALLOS
+base_ec_180450,base.ec,base_ec_18,base_ec_1804,180450,MOCHA
+base_ec_180451,base.ec,base_ec_18,base_ec_1804,180451,PINGUILI
+base_ec_180550,base.ec,base_ec_18,base_ec_1805,180550,PATATE
+base_ec_180551,base.ec,base_ec_18,base_ec_1805,180551,EL TRIUNFO
+base_ec_180552,base.ec,base_ec_18,base_ec_1805,180552,LOS ANDES (CAB. EN POATUG)
+base_ec_180553,base.ec,base_ec_18,base_ec_1805,180553,SUCRE (CAB. EN SUCRE-PATATE URCU)
+base_ec_180650,base.ec,base_ec_18,base_ec_1806,180650,QUERO
+base_ec_180651,base.ec,base_ec_18,base_ec_1806,180651,RUMIPAMBA
+base_ec_180652,base.ec,base_ec_18,base_ec_1806,180652,YANAYACU - MOCHAPATA (CAB. EN YANAYACU)
+base_ec_180750,base.ec,base_ec_18,base_ec_1807,180750,PELILEO
+base_ec_180751,base.ec,base_ec_18,base_ec_1807,180751,BENITEZ (PACHANLICA)
+base_ec_180752,base.ec,base_ec_18,base_ec_1807,180752,BOLIVAR
+base_ec_180753,base.ec,base_ec_18,base_ec_1807,180753,COTALO
+base_ec_180754,base.ec,base_ec_18,base_ec_1807,180754,CHIQUICHA (CAB. EN CHIQUICHA GRANDE)
+base_ec_180755,base.ec,base_ec_18,base_ec_1807,180755,EL ROSARIO (RUMICHACA)
+base_ec_180756,base.ec,base_ec_18,base_ec_1807,180756,GARCIA MORENO (CHUMAQUI)
+base_ec_180757,base.ec,base_ec_18,base_ec_1807,180757,GUAMBALO (HUAMBALO)
+base_ec_180758,base.ec,base_ec_18,base_ec_1807,180758,SALASACA
+base_ec_180850,base.ec,base_ec_18,base_ec_1808,180850,PILLARO
+base_ec_180851,base.ec,base_ec_18,base_ec_1808,180851,BAQUERIZO MORENO
+base_ec_180852,base.ec,base_ec_18,base_ec_1808,180852,EMILIO MARIA TERAN (RUMIPAMBA)
+base_ec_180853,base.ec,base_ec_18,base_ec_1808,180853,MARCOS ESPINEL (CHACATA)
+base_ec_180854,base.ec,base_ec_18,base_ec_1808,180854,PRESIDENTE URBINA (CHAGRAPAMBA -PATZUCUL)
+base_ec_180855,base.ec,base_ec_18,base_ec_1808,180855,SAN ANDRES
+base_ec_180856,base.ec,base_ec_18,base_ec_1808,180856,SAN JOSE DE POALO
+base_ec_180857,base.ec,base_ec_18,base_ec_1808,180857,SAN MIGUELITO
+base_ec_180950,base.ec,base_ec_18,base_ec_1809,180950,TISALEO
+base_ec_180951,base.ec,base_ec_18,base_ec_1809,180951,QUINCHICOTO
+base_ec_210150,base.ec,base_ec_21,base_ec_2101,210150,NUEVA LOJA
+base_ec_210152,base.ec,base_ec_21,base_ec_2101,210152,DURENO
+base_ec_210153,base.ec,base_ec_21,base_ec_2101,210153,GENERAL FARFAN
+base_ec_210155,base.ec,base_ec_21,base_ec_2101,210155,EL ENO
+base_ec_210156,base.ec,base_ec_21,base_ec_2101,210156,PACAYACU
+base_ec_210157,base.ec,base_ec_21,base_ec_2101,210157,JAMBELI
+base_ec_210158,base.ec,base_ec_21,base_ec_2101,210158,SANTA CECILIA
+base_ec_210250,base.ec,base_ec_21,base_ec_2102,210250,LUMBAQUI
+base_ec_210251,base.ec,base_ec_21,base_ec_2102,210251,EL REVENTADOR
+base_ec_210252,base.ec,base_ec_21,base_ec_2102,210252,GONZALO PIZARRO
+base_ec_210254,base.ec,base_ec_21,base_ec_2102,210254,PUERTO LIBRE
+base_ec_210350,base.ec,base_ec_21,base_ec_2103,210350,PUERTO EL CARMEN DEL PUTUMAYO
+base_ec_210351,base.ec,base_ec_21,base_ec_2103,210351,PALMA ROJA
+base_ec_210352,base.ec,base_ec_21,base_ec_2103,210352,PUERTO BOLIVAR (PUERTO MONTUFAR)
+base_ec_210353,base.ec,base_ec_21,base_ec_2103,210353,PUERTO RODRIGUEZ
+base_ec_210354,base.ec,base_ec_21,base_ec_2103,210354,SANTA ELENA
+base_ec_210450,base.ec,base_ec_21,base_ec_2104,210450,SHUSHUFINDI
+base_ec_210451,base.ec,base_ec_21,base_ec_2104,210451,LIMONCOCHA
+base_ec_210452,base.ec,base_ec_21,base_ec_2104,210452,PAÑACOCHA
+base_ec_210453,base.ec,base_ec_21,base_ec_2104,210453,SAN ROQUE (CAB. EN SAN VICENTE)
+base_ec_210454,base.ec,base_ec_21,base_ec_2104,210454,SAN PEDRO DE LOS COFANES
+base_ec_210455,base.ec,base_ec_21,base_ec_2104,210455,SIETE DE JULIO
+base_ec_210550,base.ec,base_ec_21,base_ec_2105,210550,LA BONITA
+base_ec_210551,base.ec,base_ec_21,base_ec_2105,210551,EL PLAYON DE SAN FRANCISCO
+base_ec_210552,base.ec,base_ec_21,base_ec_2105,210552,LA SOFIA
+base_ec_210553,base.ec,base_ec_21,base_ec_2105,210553,ROSA FLORIDA
+base_ec_210554,base.ec,base_ec_21,base_ec_2105,210554,SANTA BARBARA
+base_ec_210650,base.ec,base_ec_21,base_ec_2106,210650,EL DORADO DE CASCALES
+base_ec_210651,base.ec,base_ec_21,base_ec_2106,210651,SANTA ROSA DE SUCUMBIOS
+base_ec_210652,base.ec,base_ec_21,base_ec_2106,210652,SEVILLA
+base_ec_210750,base.ec,base_ec_21,base_ec_2107,210750,TARAPOA
+base_ec_210751,base.ec,base_ec_21,base_ec_2107,210751,CUYABENO
+base_ec_210752,base.ec,base_ec_21,base_ec_2107,210752,AGUAS NEGRAS
+base_ec_220150,base.ec,base_ec_22,base_ec_2201,220150,PUERTO FRANCISCO DE ORELLANA (EL COCA)
+base_ec_220151,base.ec,base_ec_22,base_ec_2201,220151,DAYUMA
+base_ec_220152,base.ec,base_ec_22,base_ec_2201,220152,TARACOA (NUEVA ESPERANZA: YUCA)
+base_ec_220153,base.ec,base_ec_22,base_ec_2201,220153,ALEJANDRO LABAKA
+base_ec_220154,base.ec,base_ec_22,base_ec_2201,220154,EL DORADO
+base_ec_220155,base.ec,base_ec_22,base_ec_2201,220155,EL EDEN
+base_ec_220156,base.ec,base_ec_22,base_ec_2201,220156,GARCIA MORENO
+base_ec_220157,base.ec,base_ec_22,base_ec_2201,220157,INES ARANGO (CAB. EN WESTERN)
+base_ec_220158,base.ec,base_ec_22,base_ec_2201,220158,LA BELLEZA
+base_ec_220159,base.ec,base_ec_22,base_ec_2201,220159,NUEVO PARAISO (CAB. EN UNION )
+base_ec_220160,base.ec,base_ec_22,base_ec_2201,220160,SAN JOSE DE GUAYUSA
+base_ec_220161,base.ec,base_ec_22,base_ec_2201,220161,SAN LUIS DE ARMENIA
+base_ec_220250,base.ec,base_ec_22,base_ec_2202,220250,NUEVO ROCAFUERTE
+base_ec_220251,base.ec,base_ec_22,base_ec_2202,220251,CAPITAN AUGUSTO RIVADENEYRA
+base_ec_220252,base.ec,base_ec_22,base_ec_2202,220252,CONONACO
+base_ec_220253,base.ec,base_ec_22,base_ec_2202,220253,SANTA MARIA DE HUIRIRIMA
+base_ec_220254,base.ec,base_ec_22,base_ec_2202,220254,TIPUTINI
+base_ec_220255,base.ec,base_ec_22,base_ec_2202,220255,YASUNI
+base_ec_220350,base.ec,base_ec_22,base_ec_2203,220350,LA JOYA DE LOS SACHAS
+base_ec_220351,base.ec,base_ec_22,base_ec_2203,220351,ENOKANQUI
+base_ec_220352,base.ec,base_ec_22,base_ec_2203,220352,POMPEYA
+base_ec_220353,base.ec,base_ec_22,base_ec_2203,220353,SAN CARLOS
+base_ec_220354,base.ec,base_ec_22,base_ec_2203,220354,SAN SEBASTIAN DEL COCA
+base_ec_220355,base.ec,base_ec_22,base_ec_2203,220355,LAGO SAN PEDRO
+base_ec_220356,base.ec,base_ec_22,base_ec_2203,220356,RUMIPAMBA
+base_ec_220357,base.ec,base_ec_22,base_ec_2203,220357,TRES DE NOVIEMBRE
+base_ec_220358,base.ec,base_ec_22,base_ec_2203,220358,UNION MILAGREÑA
+base_ec_220450,base.ec,base_ec_22,base_ec_2204,220450,LORETO
+base_ec_220451,base.ec,base_ec_22,base_ec_2204,220451,AVILA (CAB. EN HUIRUNO)
+base_ec_220452,base.ec,base_ec_22,base_ec_2204,220452,PUERTO MURIALDO
+base_ec_220453,base.ec,base_ec_22,base_ec_2204,220453,SAN JOSE DE PAYAMINO
+base_ec_220454,base.ec,base_ec_22,base_ec_2204,220454,SAN JOSE DE DAHUANO
+base_ec_220455,base.ec,base_ec_22,base_ec_2204,220455,SAN VICENTE DE HUATICOCHA
+base_ec_230150,base.ec,base_ec_23,base_ec_2301,230150,SANTO DOMINGO DE LOS COLORADOS
+base_ec_230151,base.ec,base_ec_23,base_ec_2301,230151,ALLURIQUIN
+base_ec_230152,base.ec,base_ec_23,base_ec_2301,230152,PUERTO LIMON
+base_ec_230153,base.ec,base_ec_23,base_ec_2301,230153,LUZ DE AMERICA
+base_ec_230154,base.ec,base_ec_23,base_ec_2301,230154,SAN JACINTO DEL BUA
+base_ec_230155,base.ec,base_ec_23,base_ec_2301,230155,VALLE HERMOSO
+base_ec_230156,base.ec,base_ec_23,base_ec_2301,230156,EL ESFUERZO
+base_ec_230157,base.ec,base_ec_23,base_ec_2301,230157,SANTA MARIA DEL TOACHI
+base_ec_900151,base.ec,base_ec_90,base_ec_9001,900151,LAS GOLONDRINAS
+base_ec_900451,base.ec,base_ec_90,base_ec_9004,900451,EL PIEDRERO
+base_ec_100652,base.ec,base_ec_10,base_ec_1006,100652,LA MERCED DE BUENOS AIRES
+base_ec_170150,base.ec,base_ec_17,base_ec_1701,170150,QUITO
+base_ec_080652,base.ec,base_ec_08,base_ec_0806,080652,SUA (CAB. EN LA BOCANA)
+base_ec_080654,base.ec,base_ec_08,base_ec_0806,080654,TONSUPA
+base_ec_080853,base.ec,base_ec_08,base_ec_0808,080853,PLAN PILOTO
+base_ec_100252,base.ec,base_ec_10,base_ec_1002,100252,SAN FCO. DE NATABUELA
+base_ec_170550,base.ec,base_ec_17,base_ec_1705,170550,SANGOLQUI
+base_ec_180150,base.ec,base_ec_18,base_ec_1801,180150,AMBATO
+base_ec_180153,base.ec,base_ec_18,base_ec_1801,180153,AUGUSTO N. MARTINEZ (MUNDUGLEO)
+base_ec_180160,base.ec,base_ec_18,base_ec_1801,180160,PICAIGUA
+base_ec_060155,base.ec,base_ec_06,base_ec_0601,060155,LICAN
+base_ec_060750,base.ec,base_ec_06,base_ec_0607,060750,GUANO
+base_ec_010151,base.ec,base_ec_01,base_ec_0101,010151,BAÑOS
+base_ec_010152,base.ec,base_ec_01,base_ec_0101,010152,CUMBE
+base_ec_010153,base.ec,base_ec_01,base_ec_0101,010153,CHAUCHA
+base_ec_010154,base.ec,base_ec_01,base_ec_0101,010154,CHECA (JIDCAY)
+base_ec_010155,base.ec,base_ec_01,base_ec_0101,010155,CHIQUINTAD
+base_ec_010156,base.ec,base_ec_01,base_ec_0101,010156,LLACAO
+base_ec_010157,base.ec,base_ec_01,base_ec_0101,010157,MOLLETURO
+base_ec_010158,base.ec,base_ec_01,base_ec_0101,010158,NULTI
+base_ec_010159,base.ec,base_ec_01,base_ec_0101,010159,OCTAVIO CORDERO PALACIOS (STA. ROSA)
+base_ec_010160,base.ec,base_ec_01,base_ec_0101,010160,PACCHA
+base_ec_010161,base.ec,base_ec_01,base_ec_0101,010161,QUINGEO
+base_ec_010162,base.ec,base_ec_01,base_ec_0101,010162,RICAURTE
+base_ec_010163,base.ec,base_ec_01,base_ec_0101,010163,SAN JOAQUIN
+base_ec_010164,base.ec,base_ec_01,base_ec_0101,010164,SANTA ANA
+base_ec_010165,base.ec,base_ec_01,base_ec_0101,010165,SAYAUSI
+base_ec_010166,base.ec,base_ec_01,base_ec_0101,010166,SIDCAY
+base_ec_010167,base.ec,base_ec_01,base_ec_0101,010167,SININCAY
+base_ec_010168,base.ec,base_ec_01,base_ec_0101,010168,TARQUI
+base_ec_010169,base.ec,base_ec_01,base_ec_0101,010169,TURI
+base_ec_010170,base.ec,base_ec_01,base_ec_0101,010170,VALLE
+base_ec_010171,base.ec,base_ec_01,base_ec_0101,010171,VICTORIA DEL PORTETE (IRQUIS)
+base_ec_010250,base.ec,base_ec_01,base_ec_0102,010250,GIRON
+base_ec_010251,base.ec,base_ec_01,base_ec_0102,010251,ASUNCION
+base_ec_010252,base.ec,base_ec_01,base_ec_0102,010252,SAN GERARDO
+base_ec_010350,base.ec,base_ec_01,base_ec_0103,010350,GUALACEO
+base_ec_010352,base.ec,base_ec_01,base_ec_0103,010352,DANIEL CORDOVA TORAL (EL ORIENTE)
+base_ec_010353,base.ec,base_ec_01,base_ec_0103,010353,JADAN
+base_ec_010354,base.ec,base_ec_01,base_ec_0103,010354,MARIANO MORENO
+base_ec_010356,base.ec,base_ec_01,base_ec_0103,010356,REMIGIO CRESPO TORAL (GULAG)
+base_ec_010357,base.ec,base_ec_01,base_ec_0103,010357,SAN JUAN
+base_ec_010358,base.ec,base_ec_01,base_ec_0103,010358,ZHIDMAD
+base_ec_010359,base.ec,base_ec_01,base_ec_0103,010359,LUIS CORDERO VEGA
+base_ec_010360,base.ec,base_ec_01,base_ec_0103,010360,SIMON BOLIVAR (CAB. EN GAÑANZOL)
+base_ec_010451,base.ec,base_ec_01,base_ec_0104,010451,COCHAPATA
+base_ec_010452,base.ec,base_ec_01,base_ec_0104,010452,EL PROGRESO (CAB. EN ZHOTA)
+base_ec_010453,base.ec,base_ec_01,base_ec_0104,010453,LAS NIEVES (CHAYA)
+base_ec_010550,base.ec,base_ec_01,base_ec_0105,010550,PAUTE
+base_ec_010552,base.ec,base_ec_01,base_ec_0105,010552,BULAN (JOSE VICTOR IZQUIERDO)
+base_ec_010553,base.ec,base_ec_01,base_ec_0105,010553,CHICAN (GUILLERMO ORTEGA)
+base_ec_010554,base.ec,base_ec_01,base_ec_0105,010554,EL CABO
+base_ec_010556,base.ec,base_ec_01,base_ec_0105,010556,GUARAINAG
+base_ec_010559,base.ec,base_ec_01,base_ec_0105,010559,SAN CRISTOBAL (CARLOS ORDOÑEZ LAZO)
+base_ec_010561,base.ec,base_ec_01,base_ec_0105,010561,TOMEBAMBA
+base_ec_010562,base.ec,base_ec_01,base_ec_0105,010562,DUG DUG
+base_ec_010650,base.ec,base_ec_01,base_ec_0106,010650,PUCARA
+base_ec_010652,base.ec,base_ec_01,base_ec_0106,010652,SAN RAFAEL DE SHARUG
+base_ec_010750,base.ec,base_ec_01,base_ec_0107,010750,SAN FERNANDO
+base_ec_010751,base.ec,base_ec_01,base_ec_0107,010751,CHUMBLIN
+base_ec_010850,base.ec,base_ec_01,base_ec_0108,010850,SANTA ISABEL (CHAGUARURCO)
+base_ec_010851,base.ec,base_ec_01,base_ec_0108,010851,ABDON CALDERON (LA UNION)
+base_ec_010853,base.ec,base_ec_01,base_ec_0108,010853,ZHAGLLI (SHAGLLI )
+base_ec_010950,base.ec,base_ec_01,base_ec_0109,010950,SIGSIG
+base_ec_010951,base.ec,base_ec_01,base_ec_0109,010951,CUCHIL (CUTCHIL)
+base_ec_010952,base.ec,base_ec_01,base_ec_0109,010952,GIMA
+base_ec_010953,base.ec,base_ec_01,base_ec_0109,010953,GUEL
+base_ec_010954,base.ec,base_ec_01,base_ec_0109,010954,LUDO
+base_ec_010955,base.ec,base_ec_01,base_ec_0109,010955,SAN BARTOLOME
+base_ec_010956,base.ec,base_ec_01,base_ec_0109,010956,SAN JOSE DE RARANGA
+base_ec_011050,base.ec,base_ec_01,base_ec_0110,011050,SAN FELIPE DE OÑA
+base_ec_011051,base.ec,base_ec_01,base_ec_0110,011051,SUSUDEL
+base_ec_011150,base.ec,base_ec_01,base_ec_0111,011150,CHORDELEG
+base_ec_011151,base.ec,base_ec_01,base_ec_0111,011151,PRINCIPAL
+base_ec_011152,base.ec,base_ec_01,base_ec_0111,011152,LA UNION
+base_ec_011153,base.ec,base_ec_01,base_ec_0111,011153,LUIS GALARZA ORELLANA (CAB. EN DELEGSOL)
+base_ec_011154,base.ec,base_ec_01,base_ec_0111,011154,SAN MARTIN DE PUZHIO
+base_ec_011250,base.ec,base_ec_01,base_ec_0112,011250,EL PAN
+base_ec_011253,base.ec,base_ec_01,base_ec_0112,011253,SAN VICENTE
+base_ec_011350,base.ec,base_ec_01,base_ec_0113,011350,SEVILLA DE ORO
+base_ec_011351,base.ec,base_ec_01,base_ec_0113,011351,AMALUZA
+base_ec_011352,base.ec,base_ec_01,base_ec_0113,011352,PALMAS
+base_ec_011450,base.ec,base_ec_01,base_ec_0114,011450,GUACHAPALA
+base_ec_011550,base.ec,base_ec_01,base_ec_0115,011550,CAMILO PONCE ENRIQUEZ
+base_ec_011551,base.ec,base_ec_01,base_ec_0115,011551,EL CARMEN DE PIJILI
+base_ec_030150,base.ec,base_ec_03,base_ec_0301,030150,AZOGUES
+base_ec_030151,base.ec,base_ec_03,base_ec_0301,030151,COJITAMBO
+base_ec_030153,base.ec,base_ec_03,base_ec_0301,030153,GUAPAN
+base_ec_030154,base.ec,base_ec_03,base_ec_0301,030154,JAVIER LOYOLA (CHUQUIPATA)
+base_ec_030155,base.ec,base_ec_03,base_ec_0301,030155,LUIS CORDERO
+base_ec_030156,base.ec,base_ec_03,base_ec_0301,030156,PINDILIG
+base_ec_030157,base.ec,base_ec_03,base_ec_0301,030157,RIVERA
+base_ec_030158,base.ec,base_ec_03,base_ec_0301,030158,SAN MIGUEL
+base_ec_030160,base.ec,base_ec_03,base_ec_0301,030160,TADAY
+base_ec_030250,base.ec,base_ec_03,base_ec_0302,030250,BIBLIAN
+base_ec_030251,base.ec,base_ec_03,base_ec_0302,030251,NAZON (CAB. EN PAMPA DE DOMINGUEZ)
+base_ec_030252,base.ec,base_ec_03,base_ec_0302,030252,SAN FRANCISCO DE SAGEO
+base_ec_030253,base.ec,base_ec_03,base_ec_0302,030253,TURUPAMBA
+base_ec_030254,base.ec,base_ec_03,base_ec_0302,030254,JERUSALEN
+base_ec_030350,base.ec,base_ec_03,base_ec_0303,030350,CAÑAR
+base_ec_030351,base.ec,base_ec_03,base_ec_0303,030351,CHONTAMARCA
+base_ec_030352,base.ec,base_ec_03,base_ec_0303,030352,CHOROCOPTE
+base_ec_030353,base.ec,base_ec_03,base_ec_0303,030353,GENERAL MORALES (SOCARTE)
+base_ec_030354,base.ec,base_ec_03,base_ec_0303,030354,GUALLETURO
+base_ec_030355,base.ec,base_ec_03,base_ec_0303,030355,HONORATO VASQUEZ (TAMBO VIEJO)
+base_ec_030356,base.ec,base_ec_03,base_ec_0303,030356,INGAPIRCA
+base_ec_030357,base.ec,base_ec_03,base_ec_0303,030357,JUNCAL
+base_ec_030358,base.ec,base_ec_03,base_ec_0303,030358,SAN ANTONIO
+base_ec_030361,base.ec,base_ec_03,base_ec_0303,030361,ZHUD
+base_ec_030362,base.ec,base_ec_03,base_ec_0303,030362,VENTURA
+base_ec_030363,base.ec,base_ec_03,base_ec_0303,030363,DUCUR
+base_ec_030450,base.ec,base_ec_03,base_ec_0304,030450,LA TRONCAL
+base_ec_030451,base.ec,base_ec_03,base_ec_0304,030451,MANUEL J. CALLE
+base_ec_030452,base.ec,base_ec_03,base_ec_0304,030452,PANCHO NEGRO
+base_ec_030550,base.ec,base_ec_03,base_ec_0305,030550,EL TAMBO
+base_ec_030650,base.ec,base_ec_03,base_ec_0306,030650,DELEG
+base_ec_030651,base.ec,base_ec_03,base_ec_0306,030651,SOLANO
+base_ec_030750,base.ec,base_ec_03,base_ec_0307,030750,SUSCAL
+base_ec_070150,base.ec,base_ec_07,base_ec_0701,070150,MACHALA
+base_ec_070152,base.ec,base_ec_07,base_ec_0701,070152,EL RETIRO
+base_ec_070250,base.ec,base_ec_07,base_ec_0702,070250,ARENILLAS
+base_ec_070251,base.ec,base_ec_07,base_ec_0702,070251,CHACRAS
+base_ec_070254,base.ec,base_ec_07,base_ec_0702,070254,PALMALES
+base_ec_070255,base.ec,base_ec_07,base_ec_0702,070255,CARCABON
+base_ec_070350,base.ec,base_ec_07,base_ec_0703,070350,PACCHA
+base_ec_070351,base.ec,base_ec_07,base_ec_0703,070351,AYAPAMBA
+base_ec_070352,base.ec,base_ec_07,base_ec_0703,070352,CORDONCILLO
+base_ec_070353,base.ec,base_ec_07,base_ec_0703,070353,MILAGRO
+base_ec_070354,base.ec,base_ec_07,base_ec_0703,070354,SAN JOSE
+base_ec_070355,base.ec,base_ec_07,base_ec_0703,070355,SAN JUAN DE CERRO AZUL
+base_ec_070450,base.ec,base_ec_07,base_ec_0704,070450,BALSAS
+base_ec_070451,base.ec,base_ec_07,base_ec_0704,070451,BELLAMARIA
+base_ec_070550,base.ec,base_ec_07,base_ec_0705,070550,CHILLA
+base_ec_070650,base.ec,base_ec_07,base_ec_0706,070650,EL GUABO
+base_ec_070651,base.ec,base_ec_07,base_ec_0706,070651,BARBONES (SUCRE)
+base_ec_070652,base.ec,base_ec_07,base_ec_0706,070652,LA IBERIA
+base_ec_070653,base.ec,base_ec_07,base_ec_0706,070653,TENDALES (CAB. EN PUERTO TENDALES)
+base_ec_070654,base.ec,base_ec_07,base_ec_0706,070654,RIO BONITO
+base_ec_070750,base.ec,base_ec_07,base_ec_0707,070750,HUAQUILLAS
+base_ec_070850,base.ec,base_ec_07,base_ec_0708,070850,MARCABELI
+base_ec_070851,base.ec,base_ec_07,base_ec_0708,070851,EL INGENIO
+base_ec_070950,base.ec,base_ec_07,base_ec_0709,070950,PASAJE
+base_ec_070951,base.ec,base_ec_07,base_ec_0709,070951,BUENAVISTA
+base_ec_070952,base.ec,base_ec_07,base_ec_0709,070952,CASACAY
+base_ec_070953,base.ec,base_ec_07,base_ec_0709,070953,LA PEAÑA
+base_ec_070954,base.ec,base_ec_07,base_ec_0709,070954,PROGRESO
+base_ec_070955,base.ec,base_ec_07,base_ec_0709,070955,UZHCURRUMI
+base_ec_070956,base.ec,base_ec_07,base_ec_0709,070956,CAÑAQUEMADA
+base_ec_071050,base.ec,base_ec_07,base_ec_0710,071050,PIÑAS
+base_ec_071051,base.ec,base_ec_07,base_ec_0710,071051,CAPIRO (CAB. EN LA CAPILLA DE CAPIRO)
+base_ec_071052,base.ec,base_ec_07,base_ec_0710,071052,LA BOCANA
+base_ec_071053,base.ec,base_ec_07,base_ec_0710,071053,MOROMORO (CAB. EN EL VADO)
+base_ec_071054,base.ec,base_ec_07,base_ec_0710,071054,PIEDRAS
+base_ec_071055,base.ec,base_ec_07,base_ec_0710,071055,SAN ROQUE (AMBROSIO MALDONADO)
+base_ec_071056,base.ec,base_ec_07,base_ec_0710,071056,SARACAY
+base_ec_071150,base.ec,base_ec_07,base_ec_0711,071150,PORTOVELO
+base_ec_071151,base.ec,base_ec_07,base_ec_0711,071151,CURTINCAPA
+base_ec_071152,base.ec,base_ec_07,base_ec_0711,071152,MORALES
+base_ec_071153,base.ec,base_ec_07,base_ec_0711,071153,SALATI
+base_ec_071250,base.ec,base_ec_07,base_ec_0712,071250,SANTA ROSA
+base_ec_071251,base.ec,base_ec_07,base_ec_0712,071251,BELLAVISTA
+base_ec_071252,base.ec,base_ec_07,base_ec_0712,071252,JAMBELI
+base_ec_071253,base.ec,base_ec_07,base_ec_0712,071253,LA AVANZADA
+base_ec_071254,base.ec,base_ec_07,base_ec_0712,071254,SAN ANTONIO
+base_ec_071255,base.ec,base_ec_07,base_ec_0712,071255,TORATA
+base_ec_071256,base.ec,base_ec_07,base_ec_0712,071256,VICTORIA
+base_ec_071257,base.ec,base_ec_07,base_ec_0712,071257,BELLAMARIA
+base_ec_071350,base.ec,base_ec_07,base_ec_0713,071350,ZARUMA
+base_ec_071351,base.ec,base_ec_07,base_ec_0713,071351,ABAÑIN
+base_ec_071352,base.ec,base_ec_07,base_ec_0713,071352,ARCAPAMBA
+base_ec_071353,base.ec,base_ec_07,base_ec_0713,071353,GUANAZAN
+base_ec_071354,base.ec,base_ec_07,base_ec_0713,071354,GUIZHAGUIÑA
+base_ec_071355,base.ec,base_ec_07,base_ec_0713,071355,HUERTAS
+base_ec_071356,base.ec,base_ec_07,base_ec_0713,071356,MALVAS
+base_ec_071357,base.ec,base_ec_07,base_ec_0713,071357,MULUNCAY GRANDE
+base_ec_071358,base.ec,base_ec_07,base_ec_0713,071358,SINSAO
+base_ec_071359,base.ec,base_ec_07,base_ec_0713,071359,SALVIAS
+base_ec_071450,base.ec,base_ec_07,base_ec_0714,071450,LA VICTORIA
+base_ec_071451,base.ec,base_ec_07,base_ec_0714,071451,LA LIBERTAD
+base_ec_071452,base.ec,base_ec_07,base_ec_0714,071452,EL PARAISO
+base_ec_071453,base.ec,base_ec_07,base_ec_0714,071453,SAN ISIDRO
+base_ec_090150,base.ec,base_ec_09,base_ec_0901,090150,GUAYAQUIL
+base_ec_090152,base.ec,base_ec_09,base_ec_0901,090152,JUAN GOMEZ RENDON (PROGRESO)
+base_ec_090153,base.ec,base_ec_09,base_ec_0901,090153,MORRO
+base_ec_090156,base.ec,base_ec_09,base_ec_0901,090156,POSORJA
+base_ec_090157,base.ec,base_ec_09,base_ec_0901,090157,PUNA
+base_ec_090158,base.ec,base_ec_09,base_ec_0901,090158,TENGUEL
+base_ec_090250,base.ec,base_ec_09,base_ec_0902,090250,ALFREDO BAQUERIZO MORENO (JUJAN)
+base_ec_090350,base.ec,base_ec_09,base_ec_0903,090350,BALAO
+base_ec_090450,base.ec,base_ec_09,base_ec_0904,090450,BALZAR
+base_ec_090550,base.ec,base_ec_09,base_ec_0905,090550,COLIMES
+base_ec_090551,base.ec,base_ec_09,base_ec_0905,090551,SAN JACINTO
+base_ec_090650,base.ec,base_ec_09,base_ec_0906,090650,DAULE
+base_ec_090652,base.ec,base_ec_09,base_ec_0906,090652,JUAN BAUTISTA AGUIRRE (LOS TINTOS)
+base_ec_090653,base.ec,base_ec_09,base_ec_0906,090653,LAUREL
+base_ec_090654,base.ec,base_ec_09,base_ec_0906,090654,LIMONAL
+base_ec_090656,base.ec,base_ec_09,base_ec_0906,090656,LOS LOJAS (ENRIQUE BAQUERIZO MORENO)
+base_ec_090750,base.ec,base_ec_09,base_ec_0907,090750,ELOY ALFARO (DURAN)
+base_ec_090850,base.ec,base_ec_09,base_ec_0908,090850,VELASCO IBARRA (CAB. EL EMPALME)
+base_ec_090851,base.ec,base_ec_09,base_ec_0908,090851,GUAYAS (PUEBLO NUEVO)
+base_ec_090852,base.ec,base_ec_09,base_ec_0908,090852,EL ROSARIO
+base_ec_090950,base.ec,base_ec_09,base_ec_0909,090950,EL TRIUNFO
+base_ec_091050,base.ec,base_ec_09,base_ec_0910,091050,MILAGRO
+base_ec_091051,base.ec,base_ec_09,base_ec_0910,091051,CHOBO
+base_ec_091053,base.ec,base_ec_09,base_ec_0910,091053,MARISCAL SUCRE (HUAQUES)
+base_ec_091054,base.ec,base_ec_09,base_ec_0910,091054,ROBERTO ASTUDILLO (CAB. EN CRUCE DE VENECIA)
+base_ec_091150,base.ec,base_ec_09,base_ec_0911,091150,NARANJAL
+base_ec_091151,base.ec,base_ec_09,base_ec_0911,091151,JESUS MARIA
+base_ec_091152,base.ec,base_ec_09,base_ec_0911,091152,SAN CARLOS
+base_ec_091153,base.ec,base_ec_09,base_ec_0911,091153,SANTA ROSA DE FLANDES
+base_ec_091154,base.ec,base_ec_09,base_ec_0911,091154,TAURA
+base_ec_091250,base.ec,base_ec_09,base_ec_0912,091250,NARANJITO
+base_ec_091350,base.ec,base_ec_09,base_ec_0913,091350,PALESTINA
+base_ec_091450,base.ec,base_ec_09,base_ec_0914,091450,PEDRO CARBO
+base_ec_091451,base.ec,base_ec_09,base_ec_0914,091451,VALLE DE LA VIRGEN
+base_ec_091452,base.ec,base_ec_09,base_ec_0914,091452,SABANILLA
+base_ec_091650,base.ec,base_ec_09,base_ec_0916,091650,SAMBORONDON
+base_ec_091651,base.ec,base_ec_09,base_ec_0916,091651,TARIFA
+base_ec_091850,base.ec,base_ec_09,base_ec_0918,091850,SANTA LUCIA
+base_ec_091950,base.ec,base_ec_09,base_ec_0919,091950,EL SALITRE (LAS RAMAS)
+base_ec_091951,base.ec,base_ec_09,base_ec_0919,091951,GRAL. VERNAZA (DOS ESTEROS)
+base_ec_091952,base.ec,base_ec_09,base_ec_0919,091952,LA VICTORIA (ÑAUZA)
+base_ec_091953,base.ec,base_ec_09,base_ec_0919,091953,JUNQUILLAL
+base_ec_092050,base.ec,base_ec_09,base_ec_0920,092050,SAN JACINTO DE YAGUACHI
+base_ec_092053,base.ec,base_ec_09,base_ec_0920,092053,GRAL. PEDRO J. MONTERO (BOLICHE)
+base_ec_092055,base.ec,base_ec_09,base_ec_0920,092055,YAGUACHI VIEJO (CONE)
+base_ec_092056,base.ec,base_ec_09,base_ec_0920,092056,VIRGEN DE FATIMA
+base_ec_092150,base.ec,base_ec_09,base_ec_0921,092150,GENERAL VILLAMIL (PLAYAS)
+base_ec_092250,base.ec,base_ec_09,base_ec_0922,092250,SIMON BOLIVAR
+base_ec_092251,base.ec,base_ec_09,base_ec_0922,092251,CRNEL. LORENZO DE GARAICOA (PEDREGAL)
+base_ec_092350,base.ec,base_ec_09,base_ec_0923,092350,CORONEL MARCELINO MARIDUEÑA (SAN CARLOS)
+base_ec_092450,base.ec,base_ec_09,base_ec_0924,092450,LOMAS DE SARGENTILLO
+base_ec_092550,base.ec,base_ec_09,base_ec_0925,092550,NARCISA DE JESUS
+base_ec_092750,base.ec,base_ec_09,base_ec_0927,092750,GRAL. ANTONIO ELIZALDE (BUCAY)
+base_ec_092850,base.ec,base_ec_09,base_ec_0928,092850,ISIDRO AYORA
+base_ec_110150,base.ec,base_ec_11,base_ec_1101,110150,LOJA
+base_ec_110151,base.ec,base_ec_11,base_ec_1101,110151,CHANTACO
+base_ec_110152,base.ec,base_ec_11,base_ec_1101,110152,CHUQUIRIBAMBA
+base_ec_110153,base.ec,base_ec_11,base_ec_1101,110153,EL CISNE
+base_ec_110154,base.ec,base_ec_11,base_ec_1101,110154,GUALEL
+base_ec_110155,base.ec,base_ec_11,base_ec_1101,110155,JIMBILLA
+base_ec_110156,base.ec,base_ec_11,base_ec_1101,110156,MALACATOS (VALLADOLID)
+base_ec_110157,base.ec,base_ec_11,base_ec_1101,110157,SAN LUCAS
+base_ec_110158,base.ec,base_ec_11,base_ec_1101,110158,SAN PEDRO DE VILCABAMBA
+base_ec_110159,base.ec,base_ec_11,base_ec_1101,110159,SANTIAGO
+base_ec_110160,base.ec,base_ec_11,base_ec_1101,110160,TAQUIL (MIGUEL RIOFRIO)
+base_ec_110161,base.ec,base_ec_11,base_ec_1101,110161,VILCABAMBA (VICTORIA)
+base_ec_110162,base.ec,base_ec_11,base_ec_1101,110162,YANGANA (ARSENIO CASTILLO)
+base_ec_110163,base.ec,base_ec_11,base_ec_1101,110163,QUINARA
+base_ec_110250,base.ec,base_ec_11,base_ec_1102,110250,CARIAMANGA
+base_ec_110251,base.ec,base_ec_11,base_ec_1102,110251,COLAISACA
+base_ec_110252,base.ec,base_ec_11,base_ec_1102,110252,EL LUCERO
+base_ec_110253,base.ec,base_ec_11,base_ec_1102,110253,UTUANA
+base_ec_110254,base.ec,base_ec_11,base_ec_1102,110254,SANGUILLIN
+base_ec_110350,base.ec,base_ec_11,base_ec_1103,110350,CATAMAYO (LA TOMA)
+base_ec_110351,base.ec,base_ec_11,base_ec_1103,110351,EL TAMBO
+base_ec_110352,base.ec,base_ec_11,base_ec_1103,110352,GUAYQUICHUMA
+base_ec_110353,base.ec,base_ec_11,base_ec_1103,110353,SAN PEDRO DE LA BENDITA
+base_ec_110354,base.ec,base_ec_11,base_ec_1103,110354,ZAMBI
+base_ec_110450,base.ec,base_ec_11,base_ec_1104,110450,CELICA
+base_ec_110451,base.ec,base_ec_11,base_ec_1104,110451,CRUZPAMBA (CAB EN CARLOS BUSTAMANTE)
+base_ec_110455,base.ec,base_ec_11,base_ec_1104,110455,POZUL (SAN JUAN DE POZUL)
+base_ec_110456,base.ec,base_ec_11,base_ec_1104,110456,SABANILLA
+base_ec_110457,base.ec,base_ec_11,base_ec_1104,110457,TNTE. MAXIMILIANO RODRIGUEZ LOAIZA
+base_ec_110550,base.ec,base_ec_11,base_ec_1105,110550,CHAGUARPAMBA
+base_ec_110551,base.ec,base_ec_11,base_ec_1105,110551,BUENAVISTA
+base_ec_110552,base.ec,base_ec_11,base_ec_1105,110552,EL ROSARIO
+base_ec_110553,base.ec,base_ec_11,base_ec_1105,110553,SANTA RUFINA
+base_ec_110554,base.ec,base_ec_11,base_ec_1105,110554,AMARILLOS
+base_ec_110650,base.ec,base_ec_11,base_ec_1106,110650,AMALUZA
+base_ec_110651,base.ec,base_ec_11,base_ec_1106,110651,BELLAVISTA
+base_ec_110652,base.ec,base_ec_11,base_ec_1106,110652,JIMBURA
+base_ec_110653,base.ec,base_ec_11,base_ec_1106,110653,SANTA TERESITA
+base_ec_110654,base.ec,base_ec_11,base_ec_1106,110654,27 DE ABRIL (CAB. EN LA NARANJA)
+base_ec_110655,base.ec,base_ec_11,base_ec_1106,110655,EL INGENIO
+base_ec_110656,base.ec,base_ec_11,base_ec_1106,110656,EL AIRO
+base_ec_110750,base.ec,base_ec_11,base_ec_1107,110750,GONZANAMA
+base_ec_110751,base.ec,base_ec_11,base_ec_1107,110751,CHANGAIMINA (LA LIBERTAD)
+base_ec_110753,base.ec,base_ec_11,base_ec_1107,110753,NAMBACOLA
+base_ec_110754,base.ec,base_ec_11,base_ec_1107,110754,PURUNUMA (EGUIGUREN)
+base_ec_110756,base.ec,base_ec_11,base_ec_1107,110756,SACAPALCA
+base_ec_110850,base.ec,base_ec_11,base_ec_1108,110850,MACARA
+base_ec_110851,base.ec,base_ec_11,base_ec_1108,110851,LARAMA
+base_ec_110852,base.ec,base_ec_11,base_ec_1108,110852,LA VICTORIA
+base_ec_110853,base.ec,base_ec_11,base_ec_1108,110853,SABIANGO (LA CAPILLA)
+base_ec_110950,base.ec,base_ec_11,base_ec_1109,110950,CATACOCHA
+base_ec_110951,base.ec,base_ec_11,base_ec_1109,110951,CANGONAMA
+base_ec_110952,base.ec,base_ec_11,base_ec_1109,110952,GUACHANAMA
+base_ec_110954,base.ec,base_ec_11,base_ec_1109,110954,LAURO GUERRERO
+base_ec_110956,base.ec,base_ec_11,base_ec_1109,110956,ORIANGA
+base_ec_110957,base.ec,base_ec_11,base_ec_1109,110957,SAN ANTONIO
+base_ec_110958,base.ec,base_ec_11,base_ec_1109,110958,CASANGA
+base_ec_110959,base.ec,base_ec_11,base_ec_1109,110959,YAMANA
+base_ec_111050,base.ec,base_ec_11,base_ec_1110,111050,ALAMOR
+base_ec_111051,base.ec,base_ec_11,base_ec_1110,111051,CIANO
+base_ec_111052,base.ec,base_ec_11,base_ec_1110,111052,EL ARENAL
+base_ec_111053,base.ec,base_ec_11,base_ec_1110,111053,EL LIMO (MARIANA DE JESUS)
+base_ec_111054,base.ec,base_ec_11,base_ec_1110,111054,MERCADILLO
+base_ec_111055,base.ec,base_ec_11,base_ec_1110,111055,VICENTINO
+base_ec_111150,base.ec,base_ec_11,base_ec_1111,111150,SARAGURO
+base_ec_111151,base.ec,base_ec_11,base_ec_1111,111151,EL PARAISO DE CELEN
+base_ec_111152,base.ec,base_ec_11,base_ec_1111,111152,EL TABLON
+base_ec_111153,base.ec,base_ec_11,base_ec_1111,111153,LLUZHAPA
+base_ec_111154,base.ec,base_ec_11,base_ec_1111,111154,MANU
+base_ec_111155,base.ec,base_ec_11,base_ec_1111,111155,SAN ANTONIO DE QUMBE (CUMBE)
+base_ec_111156,base.ec,base_ec_11,base_ec_1111,111156,SAN PABLO DE TENTA
+base_ec_111157,base.ec,base_ec_11,base_ec_1111,111157,SAN SEBASTIAN DE YULUC
+base_ec_111158,base.ec,base_ec_11,base_ec_1111,111158,SELVA ALEGRE
+base_ec_111159,base.ec,base_ec_11,base_ec_1111,111159,URDANETA (PAQUISHAPA)
+base_ec_111160,base.ec,base_ec_11,base_ec_1111,111160,SUMAYPAMBA
+base_ec_111250,base.ec,base_ec_11,base_ec_1112,111250,SOZORANGA
+base_ec_111251,base.ec,base_ec_11,base_ec_1112,111251,NUEVA FATIMA
+base_ec_111252,base.ec,base_ec_11,base_ec_1112,111252,TACAMOROS
+base_ec_111350,base.ec,base_ec_11,base_ec_1113,111350,ZAPOTILLO
+base_ec_111351,base.ec,base_ec_11,base_ec_1113,111351,MANGAHURCO
+base_ec_111352,base.ec,base_ec_11,base_ec_1113,111352,GARZAREAL
+base_ec_111353,base.ec,base_ec_11,base_ec_1113,111353,LIMONES
+base_ec_111354,base.ec,base_ec_11,base_ec_1113,111354,PALETILLAS
+base_ec_111355,base.ec,base_ec_11,base_ec_1113,111355,BOLASPAMBA
+base_ec_111453,base.ec,base_ec_11,base_ec_1114,111453,MILAGROS
+base_ec_111451,base.ec,base_ec_11,base_ec_1114,111451,CHAQUINAL
+base_ec_111452,base.ec,base_ec_11,base_ec_1114,111452,12 DE DICIEMBRE (CAB. EN ACHIOTES)
+base_ec_111550,base.ec,base_ec_11,base_ec_1115,111550,QUILANGA
+base_ec_111551,base.ec,base_ec_11,base_ec_1115,111551,FUNDOCHAMBA
+base_ec_111552,base.ec,base_ec_11,base_ec_1115,111552,SAN ANTONIO DE LAS ARADAS (CAB. EN LAS ARADAS)
+base_ec_111650,base.ec,base_ec_11,base_ec_1116,111650,OLMEDO
+base_ec_111651,base.ec,base_ec_11,base_ec_1116,111651,LA TINGUE
+base_ec_120150,base.ec,base_ec_12,base_ec_1201,120150,BABAHOYO
+base_ec_120152,base.ec,base_ec_12,base_ec_1201,120152,CARACOL
+base_ec_120153,base.ec,base_ec_12,base_ec_1201,120153,FEBRES CORDERO (LAS JUNTAS)
+base_ec_120154,base.ec,base_ec_12,base_ec_1201,120154,PIMOCHA
+base_ec_120155,base.ec,base_ec_12,base_ec_1201,120155,LA UNION
+base_ec_120250,base.ec,base_ec_12,base_ec_1202,120250,BABA
+base_ec_120251,base.ec,base_ec_12,base_ec_1202,120251,GUARE
+base_ec_120252,base.ec,base_ec_12,base_ec_1202,120252,ISLA DE BEJUCAL
+base_ec_120350,base.ec,base_ec_12,base_ec_1203,120350,MONTALVO
+base_ec_120450,base.ec,base_ec_12,base_ec_1204,120450,PUEBLOVIEJO
+base_ec_120451,base.ec,base_ec_12,base_ec_1204,120451,PUERTO PECHICHE
+base_ec_120452,base.ec,base_ec_12,base_ec_1204,120452,SAN JUAN
+base_ec_120550,base.ec,base_ec_12,base_ec_1205,120550,QUEVEDO
+base_ec_120553,base.ec,base_ec_12,base_ec_1205,120553,SAN CARLOS
+base_ec_120555,base.ec,base_ec_12,base_ec_1205,120555,LA ESPERANZA
+base_ec_120650,base.ec,base_ec_12,base_ec_1206,120650,CATARAMA
+base_ec_120651,base.ec,base_ec_12,base_ec_1206,120651,RICAURTE
+base_ec_120750,base.ec,base_ec_12,base_ec_1207,120750,VENTANAS
+base_ec_120752,base.ec,base_ec_12,base_ec_1207,120752,ZAPOTAL
+base_ec_120850,base.ec,base_ec_12,base_ec_1208,120850,VINCES
+base_ec_120851,base.ec,base_ec_12,base_ec_1208,120851,ANTONIO SOTOMAYOR (CAB. EN PLAYAS DE VINCES)
+base_ec_120950,base.ec,base_ec_12,base_ec_1209,120950,PALENQUE
+base_ec_121050,base.ec,base_ec_12,base_ec_1210,121050,SAN JACINTO DE BUENA FE
+base_ec_121051,base.ec,base_ec_12,base_ec_1210,121051,PATRICIA PILAR
+base_ec_121150,base.ec,base_ec_12,base_ec_1211,121150,VALENCIA
+base_ec_121250,base.ec,base_ec_12,base_ec_1212,121250,MOCACHE
+base_ec_121350,base.ec,base_ec_12,base_ec_1213,121350,QUINSALOMA
+base_ec_130150,base.ec,base_ec_13,base_ec_1301,130150,PORTOVIEJO
+base_ec_130151,base.ec,base_ec_13,base_ec_1301,130151,ABDON CALDERON (SAN FRANCISCO)
+base_ec_130152,base.ec,base_ec_13,base_ec_1301,130152,ALHAJUELA (BAJO GRANDE)
+base_ec_130153,base.ec,base_ec_13,base_ec_1301,130153,CRUCITA
+base_ec_130154,base.ec,base_ec_13,base_ec_1301,130154,PUEBLO NUEVO
+base_ec_130155,base.ec,base_ec_13,base_ec_1301,130155,RIOCHICO (RIO CHICO)
+base_ec_130156,base.ec,base_ec_13,base_ec_1301,130156,SAN PLACIDO
+base_ec_130157,base.ec,base_ec_13,base_ec_1301,130157,CHIRIJOS
+base_ec_130250,base.ec,base_ec_13,base_ec_1302,130250,CALCETA
+base_ec_130251,base.ec,base_ec_13,base_ec_1302,130251,MEMBRILLO
+base_ec_130252,base.ec,base_ec_13,base_ec_1302,130252,QUIROGA
+base_ec_130350,base.ec,base_ec_13,base_ec_1303,130350,CHONE
+base_ec_130351,base.ec,base_ec_13,base_ec_1303,130351,BOYACA
+base_ec_130352,base.ec,base_ec_13,base_ec_1303,130352,CANUTO
+base_ec_130353,base.ec,base_ec_13,base_ec_1303,130353,CONVENTO
+base_ec_130354,base.ec,base_ec_13,base_ec_1303,130354,CHIBUNGA
+base_ec_130355,base.ec,base_ec_13,base_ec_1303,130355,ELOY ALFARO
+base_ec_130356,base.ec,base_ec_13,base_ec_1303,130356,RICAURTE
+base_ec_130357,base.ec,base_ec_13,base_ec_1303,130357,SAN ANTONIO
+base_ec_130450,base.ec,base_ec_13,base_ec_1304,130450,EL CARMEN
+base_ec_130451,base.ec,base_ec_13,base_ec_1304,130451,WILFRIDO LOOR MOREIRA (MAICITO)
+base_ec_130452,base.ec,base_ec_13,base_ec_1304,130452,SAN PEDRO DE SUMA
+base_ec_130550,base.ec,base_ec_13,base_ec_1305,130550,FLAVIO ALFARO
+base_ec_130551,base.ec,base_ec_13,base_ec_1305,130551,SAN FRANCISCO DE NOVILLO (CAB. EN NOVILLO)
+base_ec_130552,base.ec,base_ec_13,base_ec_1305,130552,ZAPALLO
+base_ec_130650,base.ec,base_ec_13,base_ec_1306,130650,JIPIJAPA
+base_ec_130651,base.ec,base_ec_13,base_ec_1306,130651,AMERICA
+base_ec_130652,base.ec,base_ec_13,base_ec_1306,130652,EL ANEGADO (CAB. EN ELOY ALFARO)
+base_ec_130653,base.ec,base_ec_13,base_ec_1306,130653,JULCUY
+base_ec_130654,base.ec,base_ec_13,base_ec_1306,130654,LA UNION
+base_ec_130656,base.ec,base_ec_13,base_ec_1306,130656,MEMBRILLAL
+base_ec_130657,base.ec,base_ec_13,base_ec_1306,130657,PEDRO PABLO GOMEZ
+base_ec_130658,base.ec,base_ec_13,base_ec_1306,130658,PUERTO DE CAYO
+base_ec_130750,base.ec,base_ec_13,base_ec_1307,130750,JUNIN
+base_ec_130850,base.ec,base_ec_13,base_ec_1308,130850,MANTA
+base_ec_130851,base.ec,base_ec_13,base_ec_1308,130851,SAN LORENZO
+base_ec_130852,base.ec,base_ec_13,base_ec_1308,130852,SANTA MARIANITA (BOCA DE PACOCHE)
+base_ec_130950,base.ec,base_ec_13,base_ec_1309,130950,MONTECRISTI
+base_ec_130952,base.ec,base_ec_13,base_ec_1309,130952,LA PILA
+base_ec_131050,base.ec,base_ec_13,base_ec_1310,131050,PAJAN
+base_ec_131051,base.ec,base_ec_13,base_ec_1310,131051,CAMPOZANO (LA PALMA DE PAJAN)
+base_ec_131052,base.ec,base_ec_13,base_ec_1310,131052,CASCOL
+base_ec_131053,base.ec,base_ec_13,base_ec_1310,131053,GUALE
+base_ec_131054,base.ec,base_ec_13,base_ec_1310,131054,LASCANO
+base_ec_131150,base.ec,base_ec_13,base_ec_1311,131150,PICHINCHA
+base_ec_131151,base.ec,base_ec_13,base_ec_1311,131151,BARRAGANETE
+base_ec_131152,base.ec,base_ec_13,base_ec_1311,131152,SAN SEBASTIAN
+base_ec_131250,base.ec,base_ec_13,base_ec_1312,131250,ROCAFUERTE
+base_ec_131350,base.ec,base_ec_13,base_ec_1313,131350,SANTA ANA DE VUELTA LARGA
+base_ec_131351,base.ec,base_ec_13,base_ec_1313,131351,AYACUCHO
+base_ec_131352,base.ec,base_ec_13,base_ec_1313,131352,HONORATO VASQUEZ (CAB EN VASQUEZ)
+base_ec_131353,base.ec,base_ec_13,base_ec_1313,131353,LA UNION
+base_ec_131355,base.ec,base_ec_13,base_ec_1313,131355,SAN PABLO (CAB EN PUEBLO NUEVO)
+base_ec_131450,base.ec,base_ec_13,base_ec_1314,131450,BAHIA DE CARAQUEZ
+base_ec_131453,base.ec,base_ec_13,base_ec_1314,131453,CHARAPOTO
+base_ec_131457,base.ec,base_ec_13,base_ec_1314,131457,SAN ISIDRO
+base_ec_131550,base.ec,base_ec_13,base_ec_1315,131550,TOSAGUA
+base_ec_131551,base.ec,base_ec_13,base_ec_1315,131551,BACHILLERO
+base_ec_131552,base.ec,base_ec_13,base_ec_1315,131552,ANGEL PEDRO GILER (LA ESTANCILLA)
+base_ec_131650,base.ec,base_ec_13,base_ec_1316,131650,SUCRE
+base_ec_131651,base.ec,base_ec_13,base_ec_1316,131651,BELLAVISTA
+base_ec_131652,base.ec,base_ec_13,base_ec_1316,131652,NOBOA
+base_ec_131653,base.ec,base_ec_13,base_ec_1316,131653,ARQ. SIXTO DURAN BALLEN
+base_ec_131750,base.ec,base_ec_13,base_ec_1317,131750,PEDERNALES
+base_ec_131751,base.ec,base_ec_13,base_ec_1317,131751,COJIMIES
+base_ec_131752,base.ec,base_ec_13,base_ec_1317,131752,10 DE AGOSTO
+base_ec_131753,base.ec,base_ec_13,base_ec_1317,131753,ATAHUALPA
+base_ec_131850,base.ec,base_ec_13,base_ec_1318,131850,OLMEDO
+base_ec_131950,base.ec,base_ec_13,base_ec_1319,131950,PUERTO LOPEZ
+base_ec_131951,base.ec,base_ec_13,base_ec_1319,131951,MACHALILLA
+base_ec_131952,base.ec,base_ec_13,base_ec_1319,131952,SALANGO
+base_ec_132050,base.ec,base_ec_13,base_ec_1320,132050,JAMA
+base_ec_132150,base.ec,base_ec_13,base_ec_1321,132150,JARAMIJO
+base_ec_132250,base.ec,base_ec_13,base_ec_1322,132250,SAN VICENTE
+base_ec_132251,base.ec,base_ec_13,base_ec_1322,132251,CANOA
+base_ec_140150,base.ec,base_ec_14,base_ec_1401,140150,MACAS
+base_ec_140151,base.ec,base_ec_14,base_ec_1401,140151,ALSHI (CAB EN 9 DE OCTUBRE)
+base_ec_140153,base.ec,base_ec_14,base_ec_1401,140153,GENERAL PROAÑO
+base_ec_140156,base.ec,base_ec_14,base_ec_1401,140156,SAN ISIDRO
+base_ec_140157,base.ec,base_ec_14,base_ec_1401,140157,SEVILLA DON BOSCO
+base_ec_140158,base.ec,base_ec_14,base_ec_1401,140158,SINAI
+base_ec_140160,base.ec,base_ec_14,base_ec_1401,140160,ZUÑA (ZUÑAC)
+base_ec_140162,base.ec,base_ec_14,base_ec_1401,140162,CUCHAENTZA
+base_ec_140164,base.ec,base_ec_14,base_ec_1401,140164,RIO BLANCO
+base_ec_140250,base.ec,base_ec_14,base_ec_1402,140250,GUALAQUIZA
+base_ec_140251,base.ec,base_ec_14,base_ec_1402,140251,AMAZONAS (ROSARIO DE CUYES)
+base_ec_140252,base.ec,base_ec_14,base_ec_1402,140252,BERMEJOS
+base_ec_140253,base.ec,base_ec_14,base_ec_1402,140253,BOMBOIZA
+base_ec_140254,base.ec,base_ec_14,base_ec_1402,140254,CHIGUINDA
+base_ec_140255,base.ec,base_ec_14,base_ec_1402,140255,EL ROSARIO
+base_ec_140256,base.ec,base_ec_14,base_ec_1402,140256,NUEVA TARQUI
+base_ec_140257,base.ec,base_ec_14,base_ec_1402,140257,SAN MIGUEL DE CUYES
+base_ec_140258,base.ec,base_ec_14,base_ec_1402,140258,EL IDEAL
+base_ec_140350,base.ec,base_ec_14,base_ec_1403,140350,GRAL. LEONIDAS PLAZA GUTIERREZ
+base_ec_140351,base.ec,base_ec_14,base_ec_1403,140351,INDANZA
+base_ec_140357,base.ec,base_ec_14,base_ec_1403,140357,STA SUSANA DE CHIVIAZA (CAB EN CHIVIAZA)
+base_ec_140358,base.ec,base_ec_14,base_ec_1403,140358,YUNGANZA (CAB EN EL ROSARIO)
+base_ec_140450,base.ec,base_ec_14,base_ec_1404,140450,PALORA (METZERA)
+base_ec_140451,base.ec,base_ec_14,base_ec_1404,140451,ARAPICOS
+base_ec_140452,base.ec,base_ec_14,base_ec_1404,140452,CUMANDA (CAB EN COLONIA AGRICOLA SEVILLA DEL ORO)
+base_ec_140454,base.ec,base_ec_14,base_ec_1404,140454,SANGAY (CAB EN NAYAMANACA)
+base_ec_140455,base.ec,base_ec_14,base_ec_1404,140455,16 DE AGOSTO
+base_ec_140550,base.ec,base_ec_14,base_ec_1405,140550,SANTIAGO DE MENDEZ
+base_ec_140551,base.ec,base_ec_14,base_ec_1405,140551,COPAL
+base_ec_140552,base.ec,base_ec_14,base_ec_1405,140552,CHUPIANZA
+base_ec_140553,base.ec,base_ec_14,base_ec_1405,140553,PATUCA
+base_ec_140554,base.ec,base_ec_14,base_ec_1405,140554,SAN LUIS DE EL ACHO (CAB EN EL ACHO)
+base_ec_140556,base.ec,base_ec_14,base_ec_1405,140556,TAYUZA
+base_ec_140557,base.ec,base_ec_14,base_ec_1405,140557,SAN FRANCISCO DE CHINIMBIMI
+base_ec_140650,base.ec,base_ec_14,base_ec_1406,140650,SUCUA
+base_ec_140651,base.ec,base_ec_14,base_ec_1406,140651,ASUNCION
+base_ec_140652,base.ec,base_ec_14,base_ec_1406,140652,HUAMBI
+base_ec_140655,base.ec,base_ec_14,base_ec_1406,140655,SANTA MARIANITA DE JESUS
+base_ec_140750,base.ec,base_ec_14,base_ec_1407,140750,HUAMBOYA
+base_ec_140751,base.ec,base_ec_14,base_ec_1407,140751,CHIGUAZA
+base_ec_140850,base.ec,base_ec_14,base_ec_1408,140850,SAN JUAN BOSCO
+base_ec_140851,base.ec,base_ec_14,base_ec_1408,140851,PAN DE AZUCAR
+base_ec_140852,base.ec,base_ec_14,base_ec_1408,140852,SAN CARLOS DE LIMON
+base_ec_140853,base.ec,base_ec_14,base_ec_1408,140853,SAN JACINTO DE WAKAMBEIS
+base_ec_140854,base.ec,base_ec_14,base_ec_1408,140854,SANTIAGO DE PANANZA
+base_ec_140950,base.ec,base_ec_14,base_ec_1409,140950,TAISHA
+base_ec_140951,base.ec,base_ec_14,base_ec_1409,140951,HUASAGA (CAB EN WAMPUIK)
+base_ec_140952,base.ec,base_ec_14,base_ec_1409,140952,MACUMA
+base_ec_140953,base.ec,base_ec_14,base_ec_1409,140953,TUUTINENTZA
+base_ec_140954,base.ec,base_ec_14,base_ec_1409,140954,PUMPUENTSA
+base_ec_141050,base.ec,base_ec_14,base_ec_1410,141050,LOGROÑO
+base_ec_141051,base.ec,base_ec_14,base_ec_1410,141051,YAUPI
+base_ec_141052,base.ec,base_ec_14,base_ec_1410,141052,SHIMPIS
+base_ec_141150,base.ec,base_ec_14,base_ec_1411,141150,PABLO SEXTO
+base_ec_141250,base.ec,base_ec_14,base_ec_1412,141250,SANTIAGO
+base_ec_190150,base.ec,base_ec_19,base_ec_1901,190150,ZAMORA
+base_ec_190151,base.ec,base_ec_19,base_ec_1901,190151,CUMBARATZA
+base_ec_190152,base.ec,base_ec_19,base_ec_1901,190152,GUADALUPE
+base_ec_190153,base.ec,base_ec_19,base_ec_1901,190153,IMBANA (LA VICTORIA DE IMBANA)
+base_ec_190155,base.ec,base_ec_19,base_ec_1901,190155,SABANILLA
+base_ec_190156,base.ec,base_ec_19,base_ec_1901,190156,TIMBARA
+base_ec_190158,base.ec,base_ec_19,base_ec_1901,190158,SAN CARLOS DE LAS MINAS
+base_ec_190250,base.ec,base_ec_19,base_ec_1902,190250,ZUMBA
+base_ec_190251,base.ec,base_ec_19,base_ec_1902,190251,CHITO
+base_ec_190252,base.ec,base_ec_19,base_ec_1902,190252,EL CHORRO
+base_ec_190254,base.ec,base_ec_19,base_ec_1902,190254,LA CHONTA
+base_ec_190256,base.ec,base_ec_19,base_ec_1902,190256,PUCAPAMBA
+base_ec_190259,base.ec,base_ec_19,base_ec_1902,190259,SAN ANDRES
+base_ec_190350,base.ec,base_ec_19,base_ec_1903,190350,GUAYZIMI
+base_ec_190351,base.ec,base_ec_19,base_ec_1903,190351,ZURMI
+base_ec_190352,base.ec,base_ec_19,base_ec_1903,190352,NUEVO PARAISO
+base_ec_190450,base.ec,base_ec_19,base_ec_1904,190450,28 DE MAYO (SAN JOSE DE YACUAMBI)
+base_ec_190451,base.ec,base_ec_19,base_ec_1904,190451,LA PAZ
+base_ec_190452,base.ec,base_ec_19,base_ec_1904,190452,TUTUPALI
+base_ec_190550,base.ec,base_ec_19,base_ec_1905,190550,YANTZAZA (YANZATZA)
+base_ec_190551,base.ec,base_ec_19,base_ec_1905,190551,CHICAÑA
+base_ec_190553,base.ec,base_ec_19,base_ec_1905,190553,LOS ENCUENTROS
+base_ec_190650,base.ec,base_ec_19,base_ec_1906,190650,EL PANGUI
+base_ec_190651,base.ec,base_ec_19,base_ec_1906,190651,EL GUISME
+base_ec_190652,base.ec,base_ec_19,base_ec_1906,190652,PACHICUTZA
+base_ec_190653,base.ec,base_ec_19,base_ec_1906,190653,TUNDAYME
+base_ec_190750,base.ec,base_ec_19,base_ec_1907,190750,ZUMBI
+base_ec_190850,base.ec,base_ec_19,base_ec_1908,190850,PALANDA
+base_ec_190851,base.ec,base_ec_19,base_ec_1908,190851,EL PORVENIR DEL CARMEN
+base_ec_190852,base.ec,base_ec_19,base_ec_1908,190852,SAN FRANCISCO DEL VERGEL
+base_ec_190853,base.ec,base_ec_19,base_ec_1908,190853,VALLADOLID
+base_ec_190854,base.ec,base_ec_19,base_ec_1908,190854,LA CANELA
+base_ec_190950,base.ec,base_ec_19,base_ec_1909,190950,PAQUISHA
+base_ec_190951,base.ec,base_ec_19,base_ec_1909,190951,BELLAVISTA
+base_ec_190952,base.ec,base_ec_19,base_ec_1909,190952,NUEVO QUITO
+base_ec_200151,base.ec,base_ec_20,base_ec_2001,200151,EL PROGRESO
+base_ec_200152,base.ec,base_ec_20,base_ec_2001,200152,ISLA SANTA MARÍA (FLOREANA) (CAB. EN  PTO. VELASCO IBARRA)
+base_ec_200251,base.ec,base_ec_20,base_ec_2002,200251,TOMAS DE BERLANGA (SANTO TOMAS)
+base_ec_200351,base.ec,base_ec_20,base_ec_2003,200351,BELLAVISTA
+base_ec_200352,base.ec,base_ec_20,base_ec_2003,200352,SANTA ROSA
+base_ec_240150,base.ec,base_ec_24,base_ec_2401,240150,SANTA ELENA
+base_ec_240151,base.ec,base_ec_24,base_ec_2401,240151,ATAHUALPA
+base_ec_240152,base.ec,base_ec_24,base_ec_2401,240152,COLONCHE
+base_ec_240153,base.ec,base_ec_24,base_ec_2401,240153,CHANDUY
+base_ec_240154,base.ec,base_ec_24,base_ec_2401,240154,MANGLARALTO
+base_ec_240155,base.ec,base_ec_24,base_ec_2401,240155,SIMON BOLIVAR (JULIO MORENO)
+base_ec_240156,base.ec,base_ec_24,base_ec_2401,240156,SAN JOSE DE ANCON
+base_ec_240350,base.ec,base_ec_24,base_ec_2403,240350,SALINAS
+base_ec_240351,base.ec,base_ec_24,base_ec_2403,240351,ANCONCITO
+base_ec_240352,base.ec,base_ec_24,base_ec_2403,240352,JOSE LUIS TAMAYO (MUEY)
+base_ec_900351,base.ec,base_ec_90,base_ec_9003,900351,MANGA DEL CURA
+base_ec_010450,base.ec,base_ec_01,base_ec_0104,010450,NABON
+base_ec_200150,base.ec,base_ec_20,base_ec_2001,200150,PUERTO BAQUERIZO MORENO
+base_ec_200350,base.ec,base_ec_20,base_ec_2003,200350,PUERTO AYORA
+base_ec_200250,base.ec,base_ec_20,base_ec_2002,200250,PUERTO VILLAMIL
+base_ec_240250,base.ec,base_ec_24,base_ec_2402,240250,LA LIBERTAD
+base_ec_141251,base.ec,base_ec_14,base_ec_1412,141251,SAN JOSE DE MORONA
+base_ec_170353,base.ec,base_ec_17,base_ec_1703,170353,CUTUGLAHUA
+base_ec_170357,base.ec,base_ec_17,base_ec_1703,170357,UYUMBICHO
+base_ec_080851,base.ec,base_ec_08,base_ec_0808,080851,MONTERREY
+base_ec_080852,base.ec,base_ec_08,base_ec_0808,080852,LA VILLEGAS
+base_ec_080850,base.ec,base_ec_08,base_ec_0808,080850,LA CONCORDIA
+base_ec_150150,base.ec,base_ec_15,base_ec_1501,150150,TENA
+base_ec_080265,base.ec,base_ec_08,base_ec_0802,080265,SANTA LUCIA DE LAS PEÑAS
+base_ec_120754,base.ec,base_ec_12,base_ec_1207,120754,LOS ANGELES
+base_ec_120753,base.ec,base_ec_12,base_ec_1207,120753,CHACARITA
+base_ec_111450,base.ec,base_ec_11,base_ec_1114,111450,PINDAL
+base_ec_190753,base.ec,base_ec_19,base_ec_1907,190753,PANGUINTZA
+base_ec_190752,base.ec,base_ec_19,base_ec_1907,190752,TRIUNFO-DORADO
+base_ec_010854,base.ec,base_ec_01,base_ec_0108,010854,SAN SALVADOR DE CAÑARIBAMBA
+base_ec_140353,base.ec,base_ec_14,base_ec_1403,140353,SAN ANTONIO (CAB EN SAN ANTONIO CENTRO)
+base_ec_140356,base.ec,base_ec_14,base_ec_1403,140356,SAN MIGUEL DE CONCHAY
+base_ec_080455,base.ec,base_ec_08,base_ec_0804,080455,LA UNION
+base_ec_111356,base.ec,base_ec_11,base_ec_1113,111356,CAZADEROS
+base_ec_120351,base.ec,base_ec_12,base_ec_1203,120351,LA ESMERALDA
+base_ec_170256,base.ec,base_ec_17,base_ec_1702,170256,SAN JOSE DE AYORA
+base_ec_150356,base.ec,base_ec_15,base_ec_1503,150356,HATUN SUMAKU
+base_ec_210160,base.ec,base_ec_21,base_ec_2101,210160,10 DE AGOSTO
+base_ec_010150,base.ec,base_ec_01,base_ec_0101,010150,CUENCA
