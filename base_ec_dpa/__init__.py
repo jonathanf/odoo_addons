@@ -19,3 +19,5 @@
 ##############################################################################
 
 import res_country
+import res_company
+import res_partner

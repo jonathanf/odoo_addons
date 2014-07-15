@@ -20,14 +20,23 @@
 
 from openerp.osv import fields, osv
 
+ADDRESS_FIELDS = ('street', 'street2', 'zip', 'city', 'state_id', 'country_id', 'city_id', 'parish_id')
+
+
 class res_partner(osv.osv):
     _name = "res.partner"
     _inherit = "res.partner"
 
+    def _address_fields(self, cr, uid, context=None):
+        """ Returns the list of address fields that are synced from the parent
+        when the `use_parent_address` flag is set. """
+        return list(ADDRESS_FIELDS)
+
     _columns = {
-        'state_id': fields.many2one('res.country.state', 'State'),
-        'city_id': fields.many2one('res.country.city', 'City'),
-        'parish_id': fields.many2one('res.country.parish', 'Parish')
+        'country_id': fields.many2one('res.country', 'Country'),
+        'state_id': fields.many2one("res.country.state", 'State', domain="[('country_id','=',country_id)]"),
+        'city': fields.many2one('res.country.city', 'City', domain="[('state_id','=',state_id)]"),
+        'parish_id': fields.many2one('res.country.parish', 'Parish', domain="[('city_id','=',city)]")
     }
 
 res_partner()

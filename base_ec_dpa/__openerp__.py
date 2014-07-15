@@ -53,9 +53,11 @@ Source of data: http://www.inec.gob.ec
     "init_xml": [],
     "demo_xml": [],
     "update_xml": [
-        'view/res_country_view.xml'
+        'view/res_country_view.xml',
+        'view/res_company_view.xml',
+        'view/res_partner_view.xml',
     ],
     "active": False,
     "installable": True,
-    "certificate" : "",
+    "certificate": "",
 }

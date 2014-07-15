@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<openerp>
+    <data>
+        <record model="ir.ui.view" id="base_ec_company_view_form">
+            <field name="name">base.ec.company.view.form</field>
+            <field name="model">res.company</field>
+            <field name="inherit_id" ref="base.view_company_form"/>
+            <field name="arch" type="xml">
+                <xpath expr="/form/sheet/notebook/page[@string='General Information']" position="replace">
+                    <page string="General Information">
+                        <group>
+                            <group>
+                                <field name="partner_id" readonly="1" required="0" groups="base.group_no_one"/>
+                                <label for="street" string="Address"/>
+                                <div>
+                                    <field name="country_id" placeholder="Country" class="oe_no_button" options="{'no_open': True}" on_change="on_change_country(country_id)"/>
+                                    <field name="state_id" class="oe_no_button" placeholder="State" style="width: 50%%" options="{'no_open': True}"/>
+                                    <field name="city_id" placeholder="City" style="width: 50%%"/>
+                                    <field name="parish_id" placeholder="Parish" style="width: 100%%"/>
+                                    <field name="street" placeholder="Street..."/>
+                                    <field name="street2"/>
+                                    <div>
+                                        <field name="zip" placeholder="ZIP" style="width: 34%%"/>
+                                    </div>
+                                </div>
+                                <label for="rml_header1"/>
+                                <div>
+                                    <field name="rml_header1" placeholder="e.g. Global Business Solutions"/>
+                                </div>
+                                <field name="website" widget="url" placeholder="e.g. www.openerp.com"
+                                       on_change="onchange_footer(custom_footer, phone, fax, email, website, vat, company_registry, bank_ids)"/>
+                            </group>
+                            <group>
+                                <field name="phone" on_change="onchange_footer(custom_footer, phone, fax, email, website, vat, company_registry, bank_ids)"/>
+                                <field name="fax" on_change="onchange_footer(custom_footer, phone, fax, email, website, vat, company_registry, bank_ids)"/>
+                                <field name="email" on_change="onchange_footer(custom_footer, phone, fax, email, website, vat, company_registry, bank_ids)"/>
+                                <field name="vat" on_change="onchange_footer(custom_footer, phone, fax, email, website, vat, company_registry, bank_ids)"/>
+                                <field name="company_registry" on_change="onchange_footer(custom_footer, phone, fax, email, website, vat, company_registry, bank_ids)"/>
+                            </group>
+                        </group>
+                        <group string="Bank Accounts">
+                            <field name="bank_ids" nolabel="1" context="{'default_company_id': active_id, 'footer_hide': False}"
+                                   on_change="onchange_footer(custom_footer, phone, fax, email, website, vat, company_registry, bank_ids)"/>
+                        </group>
+                        <group string="Report Footer Configuration">
+                            <field name="paper_format" on_change="onchange_paper_format(paper_format)"/>
+                            <field name="custom_footer" on_change="onchange_footer(custom_footer, phone, fax, email, website, vat, company_registry, bank_ids)"/>
+                            <field name="rml_footer" attrs="{'invisible': [('custom_footer','=',False)]}"/>
+                            <field name="rml_footer_readonly" attrs="{'invisible': [('custom_footer','=',True)]}"/>
+                        </group>
+                    </page>
+                </xpath>
+            </field>
+        </record>
+    </data>
+</openerp>
