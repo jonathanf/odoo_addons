@@ -19,23 +19,24 @@
 ##############################################################################
 
 {
-    "name": "DPA Ecuador - División Pólítico Administrativa",
+    "name": "RUC Ecuador - Validación RUC/Cédula",
     "version": "1.0",
     "description": """
-DPA Ecuador - División Pólítico Administrativa
-==============================================
-Add to Odoo the INEC (Instituto Nacional de Estadísticas y Cesos - Ecuador) databases for State, Cities and Parish
+RUC Ecuador - Validación RUC/Cédula
+===================================
+Add to Odoo the formulas to validate RUC/Cédula of Ecuador Civil Registry
 
 Provides:
 ---------
-    * Partner view with new field order: country, state, city
-    * Add parish model
-    * Admin views for the model city and parish.
-    * Domain validation for DPA models
+    * Partner view with 'ref' field validation
+    * Company view with 'ref' field validation
+    * Add Formulas to validate RUC/Cédula.
+
+Alternative you can use https://code.google.com/r/jmfinlayp-vatnumber/ to get RUC validator.
 
 Source of data: http://www.inec.gob.ec
     """,
-    "shortdesc": "Base EC DPA",
+    "shortdesc": "Base EC RUC",
     "author": "Jonathan Finlay <jfinlay@riseup.net>",
     "website": "https://github.com/jonathanf",
     "category": "Localization",
@@ -44,16 +45,10 @@ Source of data: http://www.inec.gob.ec
     "depends": [
         'base',
     ],
-    "data": [
-        'data/res.country.state.csv',
-        'data/res.country.city.csv',
-        'data/res.country.parish.csv',
-        'security/ir.model.access.csv'
-    ],
+    "data": [],
     "init_xml": [],
     "demo_xml": [],
     "update_xml": [
-        'view/res_country_view.xml',
         'view/res_company_view.xml',
         'view/res_partner_view.xml',
     ],
