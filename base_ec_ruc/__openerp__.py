@@ -34,14 +34,13 @@ Provides:
 
 Alternative you can use https://code.google.com/r/jmfinlayp-vatnumber/ to get RUC validator.
 
-Source of data: http://www.inec.gob.ec
     """,
     "shortdesc": "Base EC RUC",
     "author": "Jonathan Finlay <jfinlay@riseup.net>",
     "website": "https://github.com/jonathanf",
     "category": "Localization",
     "sequence": 1,
-    "complexity": "easy",
+    "complexity": "medium",
     "depends": [
         'base',
     ],

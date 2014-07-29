@@ -6,9 +6,22 @@
             <field name="model">res.partner</field>
             <field name="inherit_id" ref="base.view_partner_form"/>
             <field name="arch" type="xml">
-
+                <xpath expr="/form/sheet/notebook/page/group/group/field[@name='ref']" position="replace">
+                    <field name="ref" on_change="check_doc_ec(ref)"/>
+                </xpath>
             </field>
         </record>
+
+    <record id="base_ec_view_partner_simple_form_inherit" model="ir.ui.view">
+        <field name="name">base.ec.view.partner.simple.form.inherit</field>
+        <field name="model">res.partner</field>
+        <field name="inherit_id" ref="base.view_partner_simple_form"/>
+        <field name="arch" type="xml">
+            <xpath expr="//field[@name='parent_id']" position="before">
+                <field name="ref" on_change="check_doc_ec(ref)"/>
+            </xpath>
+        </field>
+    </record>
 
     </data>
 </openerp>

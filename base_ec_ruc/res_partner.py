@@ -18,6 +18,26 @@
 #
 ##############################################################################
 
-#import res_company
-import res_partner
-import base_ec_ruc
+from openerp.osv import osv
+
+class res_partner(osv.osv):
+    """Base EC Model-tools for localization"""
+    _name = "res.partner"
+    _inherit = "res.partner"
+
+    def check_doc_ec(self, cr, uid, id, ref, context=None):
+        if ref:
+            base_ec_obj = self.pool.get("base.ec")
+            if not base_ec_obj.check_doc_ec(ref):
+                return {
+                    'value': {
+                        'ref': ''
+                    },
+                    'warning': {
+                        'title': 'User error',
+                        'message': 'The document is not valid'
+                    }
+                }
+        return {}
+
+res_partner()

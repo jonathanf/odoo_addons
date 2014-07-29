@@ -31,10 +31,6 @@ class base_ec(osv.osv):
         """
         if len(ruc) != 13:
             return False
-        try:
-            self._posint(ruc)
-        except ValueError:
-            return False
 
         result = 0
         residue = 0
