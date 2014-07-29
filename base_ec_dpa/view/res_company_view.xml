@@ -15,7 +15,7 @@
                                 <div>
                                     <field name="country_id" placeholder="Country" class="oe_no_button" options="{'no_open': True}" on_change="on_change_country(country_id)"/>
                                     <field name="state_id" class="oe_no_button" placeholder="State" style="width: 50%%" options="{'no_open': True}"/>
-                                    <field name="city_id" placeholder="City" style="width: 50%%"/>
+                                    <field name="city" placeholder="City" style="width: 50%%"/>
                                     <field name="parish_id" placeholder="Parish" style="width: 100%%"/>
                                     <field name="street" placeholder="Street..."/>
                                     <field name="street2"/>

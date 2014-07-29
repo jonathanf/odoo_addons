@@ -33,12 +33,12 @@ class res_company(osv.osv):
         return super(res_company, self)._set_address_data(cr, uid, company_id, name, value, arg, context=context)
 
     _columns = {
-        'city_id': fields.function(_get_address_data, fnct_inv=_set_address_data,
-                                   type='many2one', domain="[('state_id', '=', state_id)]",
-                                   relation='res.country.city', string="City", multi='address'),
+        'city': fields.function(_get_address_data, fnct_inv=_set_address_data,
+                                type='many2one', domain="[('state_id', '=', state_id)]",
+                                relation='res.country.city', string="City", multi='address'),
         'parish_id': fields.function(_get_address_data, fnct_inv=_set_address_data,
                                      type='many2one',
-                                     domain="[('city_id', '=', city_id)]",
+                                     domain="[('city_id', '=', city)]",
                                      relation='res.country.parish', string="Parish", multi='address'),
     }
 
