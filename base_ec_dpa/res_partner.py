@@ -20,7 +20,7 @@
 
 from openerp.osv import fields, osv
 
-ADDRESS_FIELDS = ('street', 'street2', 'zip', 'city', 'state_id', 'country_id', 'city_id', 'parish_id')
+ADDRESS_FIELDS = ('street', 'street2', 'zip', 'city', 'state_id', 'country_id', 'parish_id')
 
 
 class res_partner(osv.osv):
