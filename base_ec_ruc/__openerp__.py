@@ -48,6 +48,7 @@ Alternative you can use https://code.google.com/r/jmfinlayp-vatnumber/ to get RU
     "init_xml": [],
     "demo_xml": [],
     "update_xml": [
+        'security/ir.model.access.csv',
         'view/res_company_view.xml',
         'view/res_partner_view.xml',
     ],
