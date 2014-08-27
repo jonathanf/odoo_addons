@@ -48,6 +48,7 @@ Source of data: http://www.inec.gob.ec
         'data/res.country.state.csv',
         'data/res.country.city.csv',
         'data/res.country.parish.csv',
+        'data/res_country.xml',
         'security/ir.model.access.csv'
     ],
     "init_xml": [],
