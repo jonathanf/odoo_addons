@@ -7,5 +7,5 @@ A set of my utilities-addons for Odoo specially for Ecuador Localization.
   inc. modificaciones a vistas de parnter y company
 
 * base_ec_ruc: Validadores RUC y Cédula del Ecuador.
-               Alternative you can use: https://code.google.com/r/jmfinlayp-vatnumber/
+               The validations hs been added to: https://github.com/arthurdejong/python-stdnum/ Python Standard Library
 
